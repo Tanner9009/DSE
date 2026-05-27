@@ -1,0 +1,3243 @@
+test,op_index,latency_ms,ok,error,extra_json
+write.single.w1,0,1.3762,1,,
+write.single.w1,1,0.5024,1,,
+write.single.w1,2,0.6283,1,,
+write.single.w1,3,0.7100,1,,
+write.single.w1,4,0.7519,1,,
+write.single.w1,5,0.7945,1,,
+write.single.w1,6,0.4743,1,,
+write.single.w1,7,0.6605,1,,
+write.single.w1,8,0.4659,1,,
+write.single.w1,9,0.3774,1,,
+write.single.w1,10,0.4559,1,,
+write.single.w1,11,0.5195,1,,
+write.single.w1,12,0.4683,1,,
+write.single.w1,13,0.5724,1,,
+write.single.w1,14,0.6869,1,,
+write.single.w1,15,0.3545,1,,
+write.single.w1,16,0.4737,1,,
+write.single.w1,17,0.5979,1,,
+write.single.w1,18,0.4795,1,,
+write.single.w1,19,0.4484,1,,
+write.single.w1,20,0.5154,1,,
+write.single.w1,21,0.3178,1,,
+write.single.w1,22,0.3522,1,,
+write.single.w1,23,0.3741,1,,
+write.single.w1,24,0.4319,1,,
+write.single.w1,25,0.3573,1,,
+write.single.w1,26,0.5845,1,,
+write.single.w1,27,0.5059,1,,
+write.single.w1,28,0.3657,1,,
+write.single.w1,29,0.4429,1,,
+write.single.w1,30,0.5817,1,,
+write.single.w1,31,0.4772,1,,
+write.single.w1,32,0.3695,1,,
+write.single.w1,33,0.4442,1,,
+write.single.w1,34,0.5672,1,,
+write.single.w1,35,0.4362,1,,
+write.single.w1,36,0.7089,1,,
+write.single.w1,37,0.6184,1,,
+write.single.w1,38,0.4929,1,,
+write.single.w1,39,0.4477,1,,
+write.single.w1,40,0.6426,1,,
+write.single.w1,41,0.3534,1,,
+write.single.w1,42,0.3027,1,,
+write.single.w1,43,0.5750,1,,
+write.single.w1,44,0.6763,1,,
+write.single.w1,45,0.8852,1,,
+write.single.w1,46,0.4808,1,,
+write.single.w1,47,0.4024,1,,
+write.single.w1,48,0.4517,1,,
+write.single.w1,49,0.4346,1,,
+write.single.w1,50,0.3720,1,,
+write.single.w1,51,0.7226,1,,
+write.single.w1,52,0.6412,1,,
+write.single.w1,53,0.3824,1,,
+write.single.w1,54,0.5444,1,,
+write.single.w1,55,0.4734,1,,
+write.single.w1,56,0.4587,1,,
+write.single.w1,57,0.4397,1,,
+write.single.w1,58,0.4416,1,,
+write.single.w1,59,0.3399,1,,
+write.single.w1,60,0.3126,1,,
+write.single.w1,61,0.2743,1,,
+write.single.w1,62,0.5796,1,,
+write.single.w1,63,0.6987,1,,
+write.single.w1,64,0.7107,1,,
+write.single.w1,65,0.4443,1,,
+write.single.w1,66,0.5475,1,,
+write.single.w1,67,0.6429,1,,
+write.single.w1,68,0.4656,1,,
+write.single.w1,69,0.5716,1,,
+write.single.w1,70,0.4631,1,,
+write.single.w1,71,0.6134,1,,
+write.single.w1,72,0.5323,1,,
+write.single.w1,73,0.4383,1,,
+write.single.w1,74,0.6561,1,,
+write.single.w1,75,0.5212,1,,
+write.single.w1,76,0.4705,1,,
+write.single.w1,77,0.4082,1,,
+write.single.w1,78,0.4441,1,,
+write.single.w1,79,0.3651,1,,
+write.single.w1,80,0.5781,1,,
+write.single.w1,81,0.5745,1,,
+write.single.w1,82,0.6733,1,,
+write.single.w1,83,0.7099,1,,
+write.single.w1,84,0.4608,1,,
+write.single.w1,85,0.4170,1,,
+write.single.w1,86,0.5079,1,,
+write.single.w1,87,0.4807,1,,
+write.single.w1,88,0.6231,1,,
+write.single.w1,89,0.7392,1,,
+write.single.w1,90,0.5682,1,,
+write.single.w1,91,0.6247,1,,
+write.single.w1,92,0.5217,1,,
+write.single.w1,93,0.4870,1,,
+write.single.w1,94,0.4587,1,,
+write.single.w1,95,0.3794,1,,
+write.single.w1,96,0.2990,1,,
+write.single.w1,97,0.2984,1,,
+write.single.w1,98,0.4036,1,,
+write.single.w1,99,0.5930,1,,
+write.single.w1,100,0.5515,1,,
+write.single.w1,101,0.5139,1,,
+write.single.w1,102,0.5082,1,,
+write.single.w1,103,0.4521,1,,
+write.single.w1,104,0.4422,1,,
+write.single.w1,105,0.3226,1,,
+write.single.w1,106,0.4572,1,,
+write.single.w1,107,0.7573,1,,
+write.single.w1,108,0.3696,1,,
+write.single.w1,109,0.4250,1,,
+write.single.w1,110,0.5377,1,,
+write.single.w1,111,0.5044,1,,
+write.single.w1,112,0.7913,1,,
+write.single.w1,113,0.5873,1,,
+write.single.w1,114,0.4858,1,,
+write.single.w1,115,0.6517,1,,
+write.single.w1,116,0.3438,1,,
+write.single.w1,117,0.3147,1,,
+write.single.w1,118,0.6499,1,,
+write.single.w1,119,0.5591,1,,
+write.single.w1,120,0.4692,1,,
+write.single.w1,121,0.3602,1,,
+write.single.w1,122,0.5247,1,,
+write.single.w1,123,0.5183,1,,
+write.single.w1,124,0.3925,1,,
+write.single.w1,125,0.2747,1,,
+write.single.w1,126,0.5013,1,,
+write.single.w1,127,0.4020,1,,
+write.single.w1,128,0.4063,1,,
+write.single.w1,129,0.4781,1,,
+write.single.w1,130,0.4412,1,,
+write.single.w1,131,0.4471,1,,
+write.single.w1,132,0.3687,1,,
+write.single.w1,133,0.8047,1,,
+write.single.w1,134,0.4718,1,,
+write.single.w1,135,0.5186,1,,
+write.single.w1,136,0.3686,1,,
+write.single.w1,137,0.2935,1,,
+write.single.w1,138,0.3690,1,,
+write.single.w1,139,0.3082,1,,
+write.single.w1,140,0.2592,1,,
+write.single.w1,141,0.3204,1,,
+write.single.w1,142,0.4713,1,,
+write.single.w1,143,0.4057,1,,
+write.single.w1,144,0.4631,1,,
+write.single.w1,145,0.2846,1,,
+write.single.w1,146,0.3877,1,,
+write.single.w1,147,1.0076,1,,
+write.single.w1,148,0.4227,1,,
+write.single.w1,149,0.5258,1,,
+write.single.w1,150,0.6740,1,,
+write.single.w1,151,0.6415,1,,
+write.single.w1,152,0.5679,1,,
+write.single.w1,153,0.5008,1,,
+write.single.w1,154,0.3250,1,,
+write.single.w1,155,0.4917,1,,
+write.single.w1,156,0.4015,1,,
+write.single.w1,157,0.4729,1,,
+write.single.w1,158,0.5447,1,,
+write.single.w1,159,0.5028,1,,
+write.single.w1,160,0.5350,1,,
+write.single.w1,161,0.5048,1,,
+write.single.w1,162,0.4798,1,,
+write.single.w1,163,0.4233,1,,
+write.single.w1,164,0.5179,1,,
+write.single.w1,165,0.4290,1,,
+write.single.w1,166,0.4903,1,,
+write.single.w1,167,0.3888,1,,
+write.single.w1,168,0.3610,1,,
+write.single.w1,169,0.3092,1,,
+write.single.w1,170,0.7892,1,,
+write.single.w1,171,0.3865,1,,
+write.single.w1,172,0.5480,1,,
+write.single.w1,173,0.3875,1,,
+write.single.w1,174,0.7553,1,,
+write.single.w1,175,0.3956,1,,
+write.single.w1,176,0.4092,1,,
+write.single.w1,177,0.5160,1,,
+write.single.w1,178,0.4646,1,,
+write.single.w1,179,0.4647,1,,
+write.single.w1,180,0.4502,1,,
+write.single.w1,181,0.4428,1,,
+write.single.w1,182,0.5145,1,,
+write.single.w1,183,0.3603,1,,
+write.single.w1,184,0.3692,1,,
+write.single.w1,185,0.2785,1,,
+write.single.w1,186,0.6132,1,,
+write.single.w1,187,0.6456,1,,
+write.single.w1,188,0.3955,1,,
+write.single.w1,189,0.3390,1,,
+write.single.w1,190,0.3008,1,,
+write.single.w1,191,0.3061,1,,
+write.single.w1,192,0.3848,1,,
+write.single.w1,193,0.3455,1,,
+write.single.w1,194,0.3741,1,,
+write.single.w1,195,0.2635,1,,
+write.single.w1,196,0.2792,1,,
+write.single.w1,197,0.2915,1,,
+write.single.w1,198,0.2579,1,,
+write.single.w1,199,0.2934,1,,
+write.single.w1,200,0.2945,1,,
+write.single.w1,201,0.2763,1,,
+write.single.w1,202,0.5501,1,,
+write.single.w1,203,0.4668,1,,
+write.single.w1,204,0.2579,1,,
+write.single.w1,205,0.3715,1,,
+write.single.w1,206,0.3941,1,,
+write.single.w1,207,0.4813,1,,
+write.single.w1,208,0.4122,1,,
+write.single.w1,209,0.3212,1,,
+write.single.w1,210,0.3180,1,,
+write.single.w1,211,0.2664,1,,
+write.single.w1,212,0.4001,1,,
+write.single.w1,213,0.2745,1,,
+write.single.w1,214,0.2604,1,,
+write.single.w1,215,0.4953,1,,
+write.single.w1,216,0.3249,1,,
+write.single.w1,217,0.2998,1,,
+write.single.w1,218,0.3078,1,,
+write.single.w1,219,0.2688,1,,
+write.single.w1,220,0.2609,1,,
+write.single.w1,221,0.6604,1,,
+write.single.w1,222,0.3358,1,,
+write.single.w1,223,0.2430,1,,
+write.single.w1,224,0.2776,1,,
+write.single.w1,225,0.6122,1,,
+write.single.w1,226,0.4711,1,,
+write.single.w1,227,0.5145,1,,
+write.single.w1,228,0.8708,1,,
+write.single.w1,229,0.5284,1,,
+write.single.w1,230,0.5668,1,,
+write.single.w1,231,0.3945,1,,
+write.single.w1,232,0.3966,1,,
+write.single.w1,233,0.3655,1,,
+write.single.w1,234,0.4793,1,,
+write.single.w1,235,0.4852,1,,
+write.single.w1,236,0.3760,1,,
+write.single.w1,237,0.3759,1,,
+write.single.w1,238,0.4736,1,,
+write.single.w1,239,0.3762,1,,
+write.single.w1,240,0.3839,1,,
+write.single.w1,241,0.4108,1,,
+write.single.w1,242,0.5254,1,,
+write.single.w1,243,0.3282,1,,
+write.single.w1,244,0.3007,1,,
+write.single.w1,245,0.2774,1,,
+write.single.w1,246,0.4642,1,,
+write.single.w1,247,0.2670,1,,
+write.single.w1,248,0.2597,1,,
+write.single.w1,249,0.2531,1,,
+write.single.w1,250,0.4357,1,,
+write.single.w1,251,0.2579,1,,
+write.single.w1,252,0.3222,1,,
+write.single.w1,253,0.2785,1,,
+write.single.w1,254,0.2905,1,,
+write.single.w1,255,0.2600,1,,
+write.single.w1,256,0.2941,1,,
+write.single.w1,257,0.2678,1,,
+write.single.w1,258,0.5281,1,,
+write.single.w1,259,0.4756,1,,
+write.single.w1,260,0.3297,1,,
+write.single.w1,261,0.3912,1,,
+write.single.w1,262,0.5102,1,,
+write.single.w1,263,0.3117,1,,
+write.single.w1,264,0.3390,1,,
+write.single.w1,265,0.3059,1,,
+write.single.w1,266,0.5554,1,,
+write.single.w1,267,0.3905,1,,
+write.single.w1,268,0.5319,1,,
+write.single.w1,269,0.3531,1,,
+write.single.w1,270,0.3039,1,,
+write.single.w1,271,0.3146,1,,
+write.single.w1,272,0.2920,1,,
+write.single.w1,273,0.2691,1,,
+write.single.w1,274,0.3090,1,,
+write.single.w1,275,0.3091,1,,
+write.single.w1,276,0.2718,1,,
+write.single.w1,277,0.2414,1,,
+write.single.w1,278,0.2421,1,,
+write.single.w1,279,0.2431,1,,
+write.single.w1,280,0.2499,1,,
+write.single.w1,281,0.2681,1,,
+write.single.w1,282,0.3264,1,,
+write.single.w1,283,0.2853,1,,
+write.single.w1,284,0.5201,1,,
+write.single.w1,285,0.2541,1,,
+write.single.w1,286,0.3481,1,,
+write.single.w1,287,0.2872,1,,
+write.single.w1,288,0.3062,1,,
+write.single.w1,289,0.3544,1,,
+write.single.w1,290,0.7079,1,,
+write.single.w1,291,0.3414,1,,
+write.single.w1,292,0.6751,1,,
+write.single.w1,293,0.5616,1,,
+write.single.w1,294,0.5177,1,,
+write.single.w1,295,0.4187,1,,
+write.single.w1,296,0.4097,1,,
+write.single.w1,297,0.6968,1,,
+write.single.w1,298,0.3769,1,,
+write.single.w1,299,0.4297,1,,
+write.single.w1,300,0.5955,1,,
+write.single.w1,301,0.3753,1,,
+write.single.w1,302,0.3627,1,,
+write.single.w1,303,0.3109,1,,
+write.single.w1,304,0.3733,1,,
+write.single.w1,305,0.3087,1,,
+write.single.w1,306,0.2687,1,,
+write.single.w1,307,0.2759,1,,
+write.single.w1,308,0.3508,1,,
+write.single.w1,309,0.2731,1,,
+write.single.w1,310,0.4351,1,,
+write.single.w1,311,0.2788,1,,
+write.single.w1,312,0.2898,1,,
+write.single.w1,313,0.4787,1,,
+write.single.w1,314,0.4653,1,,
+write.single.w1,315,0.5137,1,,
+write.single.w1,316,0.3854,1,,
+write.single.w1,317,0.4918,1,,
+write.single.w1,318,0.3581,1,,
+write.single.w1,319,0.2721,1,,
+write.single.w1,320,0.4894,1,,
+write.single.w1,321,0.4931,1,,
+write.single.w1,322,0.4834,1,,
+write.single.w1,323,0.4108,1,,
+write.single.w1,324,0.5645,1,,
+write.single.w1,325,0.4426,1,,
+write.single.w1,326,0.3815,1,,
+write.single.w1,327,0.4249,1,,
+write.single.w1,328,0.5333,1,,
+write.single.w1,329,0.3159,1,,
+write.single.w1,330,0.3927,1,,
+write.single.w1,331,0.4345,1,,
+write.single.w1,332,0.4445,1,,
+write.single.w1,333,0.4056,1,,
+write.single.w1,334,0.6424,1,,
+write.single.w1,335,0.5364,1,,
+write.single.w1,336,0.3633,1,,
+write.single.w1,337,0.2473,1,,
+write.single.w1,338,0.2916,1,,
+write.single.w1,339,0.4039,1,,
+write.single.w1,340,0.5094,1,,
+write.single.w1,341,0.4281,1,,
+write.single.w1,342,0.5071,1,,
+write.single.w1,343,0.5594,1,,
+write.single.w1,344,0.3279,1,,
+write.single.w1,345,0.3098,1,,
+write.single.w1,346,0.2979,1,,
+write.single.w1,347,0.2758,1,,
+write.single.w1,348,0.4430,1,,
+write.single.w1,349,0.2798,1,,
+write.single.w1,350,0.3103,1,,
+write.single.w1,351,0.2914,1,,
+write.single.w1,352,0.5458,1,,
+write.single.w1,353,0.5828,1,,
+write.single.w1,354,0.3109,1,,
+write.single.w1,355,0.2875,1,,
+write.single.w1,356,0.2853,1,,
+write.single.w1,357,0.3796,1,,
+write.single.w1,358,0.3101,1,,
+write.single.w1,359,0.2573,1,,
+write.single.w1,360,0.2398,1,,
+write.single.w1,361,0.2126,1,,
+write.single.w1,362,0.2429,1,,
+write.single.w1,363,0.2632,1,,
+write.single.w1,364,0.3980,1,,
+write.single.w1,365,0.3156,1,,
+write.single.w1,366,0.3228,1,,
+write.single.w1,367,0.5462,1,,
+write.single.w1,368,0.4547,1,,
+write.single.w1,369,0.3381,1,,
+write.single.w1,370,0.5007,1,,
+write.single.w1,371,0.2915,1,,
+write.single.w1,372,0.2990,1,,
+write.single.w1,373,0.2772,1,,
+write.single.w1,374,0.2490,1,,
+write.single.w1,375,0.2705,1,,
+write.single.w1,376,0.6036,1,,
+write.single.w1,377,0.2863,1,,
+write.single.w1,378,0.2429,1,,
+write.single.w1,379,0.3055,1,,
+write.single.w1,380,0.2633,1,,
+write.single.w1,381,0.3339,1,,
+write.single.w1,382,0.2708,1,,
+write.single.w1,383,0.2579,1,,
+write.single.w1,384,0.3020,1,,
+write.single.w1,385,0.2941,1,,
+write.single.w1,386,0.4148,1,,
+write.single.w1,387,0.3222,1,,
+write.single.w1,388,0.2970,1,,
+write.single.w1,389,0.3267,1,,
+write.single.w1,390,0.3108,1,,
+write.single.w1,391,0.2801,1,,
+write.single.w1,392,0.2905,1,,
+write.single.w1,393,0.3678,1,,
+write.single.w1,394,0.2997,1,,
+write.single.w1,395,0.2791,1,,
+write.single.w1,396,0.4712,1,,
+write.single.w1,397,0.3022,1,,
+write.single.w1,398,0.4096,1,,
+write.single.w1,399,0.3648,1,,
+write.single.w1,400,0.3031,1,,
+write.single.w1,401,0.3199,1,,
+write.single.w1,402,0.3542,1,,
+write.single.w1,403,0.2770,1,,
+write.single.w1,404,0.2962,1,,
+write.single.w1,405,0.4016,1,,
+write.single.w1,406,0.3165,1,,
+write.single.w1,407,0.3088,1,,
+write.single.w1,408,0.2888,1,,
+write.single.w1,409,0.4033,1,,
+write.single.w1,410,0.3216,1,,
+write.single.w1,411,0.3439,1,,
+write.single.w1,412,0.2888,1,,
+write.single.w1,413,0.3076,1,,
+write.single.w1,414,0.3108,1,,
+write.single.w1,415,0.2946,1,,
+write.single.w1,416,0.2614,1,,
+write.single.w1,417,0.2680,1,,
+write.single.w1,418,0.3242,1,,
+write.single.w1,419,0.2626,1,,
+write.single.w1,420,0.2473,1,,
+write.single.w1,421,0.3007,1,,
+write.single.w1,422,0.4882,1,,
+write.single.w1,423,0.2749,1,,
+write.single.w1,424,0.4880,1,,
+write.single.w1,425,0.3655,1,,
+write.single.w1,426,0.3240,1,,
+write.single.w1,427,0.2813,1,,
+write.single.w1,428,0.3023,1,,
+write.single.w1,429,0.3591,1,,
+write.single.w1,430,0.5214,1,,
+write.single.w1,431,0.3229,1,,
+write.single.w1,432,0.4211,1,,
+write.single.w1,433,0.5055,1,,
+write.single.w1,434,0.5440,1,,
+write.single.w1,435,0.5333,1,,
+write.single.w1,436,0.4734,1,,
+write.single.w1,437,0.3908,1,,
+write.single.w1,438,0.3478,1,,
+write.single.w1,439,0.2787,1,,
+write.single.w1,440,0.3439,1,,
+write.single.w1,441,0.3696,1,,
+write.single.w1,442,0.5094,1,,
+write.single.w1,443,0.4365,1,,
+write.single.w1,444,0.2716,1,,
+write.single.w1,445,0.3174,1,,
+write.single.w1,446,0.4281,1,,
+write.single.w1,447,0.2611,1,,
+write.single.w1,448,0.5021,1,,
+write.single.w1,449,0.4460,1,,
+write.single.w1,450,0.4958,1,,
+write.single.w1,451,0.4136,1,,
+write.single.w1,452,0.3533,1,,
+write.single.w1,453,0.6608,1,,
+write.single.w1,454,0.3596,1,,
+write.single.w1,455,0.3961,1,,
+write.single.w1,456,0.3887,1,,
+write.single.w1,457,0.5950,1,,
+write.single.w1,458,0.4511,1,,
+write.single.w1,459,0.5035,1,,
+write.single.w1,460,0.4507,1,,
+write.single.w1,461,0.6580,1,,
+write.single.w1,462,0.3659,1,,
+write.single.w1,463,0.4041,1,,
+write.single.w1,464,0.5082,1,,
+write.single.w1,465,0.5619,1,,
+write.single.w1,466,0.5472,1,,
+write.single.w1,467,0.4836,1,,
+write.single.w1,468,0.3422,1,,
+write.single.w1,469,0.3114,1,,
+write.single.w1,470,0.5856,1,,
+write.single.w1,471,0.3366,1,,
+write.single.w1,472,0.2570,1,,
+write.single.w1,473,0.2907,1,,
+write.single.w1,474,0.2769,1,,
+write.single.w1,475,0.4020,1,,
+write.single.w1,476,0.4029,1,,
+write.single.w1,477,0.6389,1,,
+write.single.w1,478,0.4473,1,,
+write.single.w1,479,0.3274,1,,
+write.single.w1,480,0.3506,1,,
+write.single.w1,481,0.2806,1,,
+write.single.w1,482,0.3095,1,,
+write.single.w1,483,0.3286,1,,
+write.single.w1,484,0.4867,1,,
+write.single.w1,485,0.6048,1,,
+write.single.w1,486,0.5242,1,,
+write.single.w1,487,0.4836,1,,
+write.single.w1,488,0.4879,1,,
+write.single.w1,489,0.3808,1,,
+write.single.w1,490,0.3495,1,,
+write.single.w1,491,0.4462,1,,
+write.single.w1,492,0.3813,1,,
+write.single.w1,493,0.3055,1,,
+write.single.w1,494,0.2961,1,,
+write.single.w1,495,0.2517,1,,
+write.single.w1,496,0.3990,1,,
+write.single.w1,497,0.5778,1,,
+write.single.w1,498,0.2523,1,,
+write.single.w1,499,0.3082,1,,
+write.single.majority,0,4.4657,1,,
+write.single.majority,1,5.2111,1,,
+write.single.majority,2,2.2671,1,,
+write.single.majority,3,1.8652,1,,
+write.single.majority,4,1.5888,1,,
+write.single.majority,5,1.5860,1,,
+write.single.majority,6,1.4652,1,,
+write.single.majority,7,2.4300,1,,
+write.single.majority,8,1.6334,1,,
+write.single.majority,9,4.8569,1,,
+write.single.majority,10,2.2766,1,,
+write.single.majority,11,1.6323,1,,
+write.single.majority,12,1.6405,1,,
+write.single.majority,13,2.4718,1,,
+write.single.majority,14,1.5166,1,,
+write.single.majority,15,2.2797,1,,
+write.single.majority,16,1.6755,1,,
+write.single.majority,17,5.8912,1,,
+write.single.majority,18,2.3582,1,,
+write.single.majority,19,2.0598,1,,
+write.single.majority,20,4.7502,1,,
+write.single.majority,21,1.7129,1,,
+write.single.majority,22,1.6320,1,,
+write.single.majority,23,2.6497,1,,
+write.single.majority,24,1.9891,1,,
+write.single.majority,25,1.7610,1,,
+write.single.majority,26,2.6073,1,,
+write.single.majority,27,1.8881,1,,
+write.single.majority,28,1.6923,1,,
+write.single.majority,29,1.3797,1,,
+write.single.majority,30,1.5208,1,,
+write.single.majority,31,3.4063,1,,
+write.single.majority,32,2.0509,1,,
+write.single.majority,33,1.6057,1,,
+write.single.majority,34,2.2694,1,,
+write.single.majority,35,1.6133,1,,
+write.single.majority,36,1.5921,1,,
+write.single.majority,37,1.7911,1,,
+write.single.majority,38,1.7186,1,,
+write.single.majority,39,3.3287,1,,
+write.single.majority,40,1.6571,1,,
+write.single.majority,41,1.5070,1,,
+write.single.majority,42,2.4820,1,,
+write.single.majority,43,1.4965,1,,
+write.single.majority,44,1.6580,1,,
+write.single.majority,45,2.8737,1,,
+write.single.majority,46,1.7089,1,,
+write.single.majority,47,2.3665,1,,
+write.single.majority,48,1.5773,1,,
+write.single.majority,49,1.7156,1,,
+write.single.majority,50,2.3574,1,,
+write.single.majority,51,1.5245,1,,
+write.single.majority,52,2.7157,1,,
+write.single.majority,53,1.5476,1,,
+write.single.majority,54,1.7734,1,,
+write.single.majority,55,2.1911,1,,
+write.single.majority,56,1.6915,1,,
+write.single.majority,57,1.6856,1,,
+write.single.majority,58,3.1557,1,,
+write.single.majority,59,1.5014,1,,
+write.single.majority,60,1.6469,1,,
+write.single.majority,61,1.6915,1,,
+write.single.majority,62,1.5205,1,,
+write.single.majority,63,2.3300,1,,
+write.single.majority,64,2.4283,1,,
+write.single.majority,65,1.7026,1,,
+write.single.majority,66,2.1627,1,,
+write.single.majority,67,1.6430,1,,
+write.single.majority,68,1.6766,1,,
+write.single.majority,69,1.6898,1,,
+write.single.majority,70,1.3726,1,,
+write.single.majority,71,2.5711,1,,
+write.single.majority,72,1.5725,1,,
+write.single.majority,73,1.3723,1,,
+write.single.majority,74,2.2403,1,,
+write.single.majority,75,1.7094,1,,
+write.single.majority,76,1.5513,1,,
+write.single.majority,77,2.3280,1,,
+write.single.majority,78,1.6278,1,,
+write.single.majority,79,2.1689,1,,
+write.single.majority,80,1.2176,1,,
+write.single.majority,81,1.5261,1,,
+write.single.majority,82,2.2585,1,,
+write.single.majority,83,1.5666,1,,
+write.single.majority,84,2.7990,1,,
+write.single.majority,85,1.5183,1,,
+write.single.majority,86,1.4761,1,,
+write.single.majority,87,2.2527,1,,
+write.single.majority,88,1.7145,1,,
+write.single.majority,89,1.5637,1,,
+write.single.majority,90,3.3092,1,,
+write.single.majority,91,2.1549,1,,
+write.single.majority,92,1.5459,1,,
+write.single.majority,93,1.3472,1,,
+write.single.majority,94,1.6571,1,,
+write.single.majority,95,2.4006,1,,
+write.single.majority,96,2.7615,1,,
+write.single.majority,97,2.3864,1,,
+write.single.majority,98,1.9545,1,,
+write.single.majority,99,1.6810,1,,
+write.single.majority,100,2.7045,1,,
+write.single.majority,101,1.6928,1,,
+write.single.majority,102,2.2272,1,,
+write.single.majority,103,3.1798,1,,
+write.single.majority,104,1.6487,1,,
+write.single.majority,105,1.6220,1,,
+write.single.majority,106,1.5531,1,,
+write.single.majority,107,2.7418,1,,
+write.single.majority,108,2.1564,1,,
+write.single.majority,109,1.6318,1,,
+write.single.majority,110,1.6219,1,,
+write.single.majority,111,2.1523,1,,
+write.single.majority,112,1.5195,1,,
+write.single.majority,113,2.7317,1,,
+write.single.majority,114,1.6590,1,,
+write.single.majority,115,1.7221,1,,
+write.single.majority,116,2.1682,1,,
+write.single.majority,117,1.5468,1,,
+write.single.majority,118,1.5168,1,,
+write.single.majority,119,2.2473,1,,
+write.single.majority,120,2.7381,1,,
+write.single.majority,121,1.5940,1,,
+write.single.majority,122,1.6554,1,,
+write.single.majority,123,2.3058,1,,
+write.single.majority,124,2.4742,1,,
+write.bulk500.w1,0,3.8003,1,,"{""batch_size"": 500}"
+write.bulk500.w1,1,5.3627,1,,"{""batch_size"": 500}"
+write.bulk500.w1,2,4.7514,1,,"{""batch_size"": 500}"
+write.bulk500.w1,3,5.1109,1,,"{""batch_size"": 500}"
+write.bulk500.w1,4,4.0048,1,,"{""batch_size"": 500}"
+write.bulk500.w1,5,4.3419,1,,"{""batch_size"": 500}"
+write.bulk500.w1,6,5.5418,1,,"{""batch_size"": 500}"
+write.bulk500.w1,7,4.6066,1,,"{""batch_size"": 500}"
+write.bulk500.w1,8,5.3594,1,,"{""batch_size"": 500}"
+write.bulk500.w1,9,4.2405,1,,"{""batch_size"": 500}"
+write.bulk500.w1,10,4.6992,1,,"{""batch_size"": 500}"
+write.bulk500.w1,11,5.0459,1,,"{""batch_size"": 500}"
+write.bulk500.w1,12,4.2062,1,,"{""batch_size"": 500}"
+write.bulk500.w1,13,4.2482,1,,"{""batch_size"": 500}"
+write.bulk500.w1,14,4.7177,1,,"{""batch_size"": 500}"
+write.bulk500.w1,15,4.4346,1,,"{""batch_size"": 500}"
+write.bulk500.w1,16,3.8471,1,,"{""batch_size"": 500}"
+write.bulk500.w1,17,4.1901,1,,"{""batch_size"": 500}"
+write.bulk500.w1,18,3.8164,1,,"{""batch_size"": 500}"
+write.bulk500.w1,19,7.5731,1,,"{""batch_size"": 500}"
+write.bulk500.majority,0,14.0964,1,,"{""batch_size"": 500}"
+write.bulk500.majority,1,9.7880,1,,"{""batch_size"": 500}"
+write.bulk500.majority,2,8.7416,1,,"{""batch_size"": 500}"
+write.bulk500.majority,3,9.0510,1,,"{""batch_size"": 500}"
+write.bulk500.majority,4,10.1312,1,,"{""batch_size"": 500}"
+write.update.w1,0,1.9709,1,,
+write.update.w1,1,2.7588,1,,
+write.update.w1,2,2.0756,1,,
+write.update.w1,3,1.6387,1,,
+write.update.w1,4,2.3646,1,,
+write.update.w1,5,1.5851,1,,
+write.update.w1,6,1.3740,1,,
+write.update.w1,7,1.5988,1,,
+write.update.w1,8,1.5936,1,,
+write.update.w1,9,2.8219,1,,
+write.update.w1,10,2.2042,1,,
+write.update.w1,11,1.6502,1,,
+write.update.w1,12,1.5912,1,,
+write.update.w1,13,1.5439,1,,
+write.update.w1,14,2.1657,1,,
+write.update.w1,15,1.8400,1,,
+write.update.w1,16,1.5942,1,,
+write.update.w1,17,2.8344,1,,
+write.update.w1,18,1.5967,1,,
+write.update.w1,19,1.5463,1,,
+write.update.w1,20,1.6601,1,,
+write.update.w1,21,2.2958,1,,
+write.update.w1,22,1.7567,1,,
+write.update.w1,23,1.5386,1,,
+write.update.w1,24,1.5872,1,,
+write.update.w1,25,3.4554,1,,
+write.update.w1,26,1.6133,1,,
+write.update.w1,27,1.5719,1,,
+write.update.w1,28,1.6604,1,,
+write.update.w1,29,1.5856,1,,
+write.update.w1,30,1.7057,1,,
+write.update.w1,31,2.1632,1,,
+write.update.w1,32,1.6460,1,,
+write.update.w1,33,2.5779,1,,
+write.update.w1,34,1.5257,1,,
+write.update.w1,35,1.5892,1,,
+write.update.w1,36,2.2038,1,,
+write.update.w1,37,1.6228,1,,
+write.update.w1,38,1.6234,1,,
+write.update.w1,39,1.6808,1,,
+write.update.w1,40,1.6528,1,,
+write.update.w1,41,2.6571,1,,
+write.update.w1,42,2.1862,1,,
+write.update.w1,43,1.6848,1,,
+write.update.w1,44,1.6125,1,,
+write.update.w1,45,1.6169,1,,
+write.update.w1,46,2.3711,1,,
+write.update.w1,47,1.6497,1,,
+write.update.w1,48,1.6199,1,,
+write.update.w1,49,2.9344,1,,
+write.update.w1,50,1.5874,1,,
+write.update.w1,51,1.5552,1,,
+write.update.w1,52,1.6833,1,,
+write.update.w1,53,2.2196,1,,
+write.update.w1,54,1.7975,1,,
+write.update.w1,55,1.5497,1,,
+write.update.w1,56,1.5154,1,,
+write.update.w1,57,2.4302,1,,
+write.update.w1,58,1.6037,1,,
+write.update.w1,59,1.5492,1,,
+write.update.w1,60,1.6281,1,,
+write.update.w1,61,1.5938,1,,
+write.update.w1,62,1.6514,1,,
+write.update.w1,63,2.2311,1,,
+write.update.w1,64,1.6783,1,,
+write.update.w1,65,2.7312,1,,
+write.update.w1,66,1.6148,1,,
+write.update.w1,67,1.5928,1,,
+write.update.w1,68,2.2508,1,,
+write.update.w1,69,1.6499,1,,
+write.update.w1,70,1.7026,1,,
+write.update.w1,71,1.6092,1,,
+write.update.w1,72,1.5306,1,,
+write.update.w1,73,2.6832,1,,
+write.update.w1,74,2.2886,1,,
+write.update.w1,75,1.7240,1,,
+write.update.w1,76,1.6550,1,,
+write.update.w1,77,1.5473,1,,
+write.update.w1,78,2.2587,1,,
+write.update.w1,79,1.7570,1,,
+write.update.w1,80,1.5621,1,,
+write.update.w1,81,2.7480,1,,
+write.update.w1,82,1.6565,1,,
+write.update.w1,83,1.5789,1,,
+write.update.w1,84,1.6467,1,,
+write.update.w1,85,2.4180,1,,
+write.update.w1,86,1.3363,1,,
+write.update.w1,87,1.6334,1,,
+write.update.w1,88,1.5780,1,,
+write.update.w1,89,3.3101,1,,
+write.update.w1,90,1.5946,1,,
+write.update.w1,91,1.6101,1,,
+write.update.w1,92,1.5862,1,,
+write.update.w1,93,1.5749,1,,
+write.update.w1,94,1.5603,1,,
+write.update.w1,95,2.3725,1,,
+write.update.w1,96,1.4944,1,,
+write.update.w1,97,2.5965,1,,
+write.update.w1,98,1.5901,1,,
+write.update.w1,99,1.6000,1,,
+write.update.w1,100,2.2794,1,,
+write.update.w1,101,1.6503,1,,
+write.update.w1,102,1.4517,1,,
+write.update.w1,103,1.5755,1,,
+write.update.w1,104,1.7157,1,,
+write.update.w1,105,2.3685,1,,
+write.update.w1,106,2.1494,1,,
+write.update.w1,107,1.6718,1,,
+write.update.w1,108,1.6736,1,,
+write.update.w1,109,1.5431,1,,
+write.update.w1,110,2.3792,1,,
+write.update.w1,111,1.6196,1,,
+write.update.w1,112,1.6323,1,,
+write.update.w1,113,2.2243,1,,
+write.update.w1,114,1.5786,1,,
+write.update.w1,115,1.6420,1,,
+write.update.w1,116,1.6444,1,,
+write.update.w1,117,2.1614,1,,
+write.update.w1,118,1.3834,1,,
+write.update.w1,119,1.6250,1,,
+write.update.w1,120,1.6018,1,,
+write.update.w1,121,2.6189,1,,
+write.update.w1,122,1.6072,1,,
+write.update.w1,123,1.7021,1,,
+write.update.w1,124,1.4851,1,,
+write.update.w1,125,1.8397,1,,
+write.update.w1,126,1.6024,1,,
+write.update.w1,127,2.2554,1,,
+write.update.w1,128,1.6615,1,,
+write.update.w1,129,2.7906,1,,
+write.update.w1,130,1.5851,1,,
+write.update.w1,131,1.6935,1,,
+write.update.w1,132,2.2883,1,,
+write.update.w1,133,1.5843,1,,
+write.update.w1,134,1.4040,1,,
+write.update.w1,135,1.7121,1,,
+write.update.w1,136,1.6056,1,,
+write.update.w1,137,2.6923,1,,
+write.update.w1,138,2.3101,1,,
+write.update.w1,139,1.7319,1,,
+write.update.w1,140,1.5407,1,,
+write.update.w1,141,1.6089,1,,
+write.update.w1,142,2.3840,1,,
+write.update.w1,143,1.7036,1,,
+write.update.w1,144,1.7587,1,,
+write.update.w1,145,2.7368,1,,
+write.update.w1,146,1.6571,1,,
+write.update.w1,147,1.6338,1,,
+write.update.w1,148,1.5187,1,,
+write.update.w1,149,2.1188,1,,
+write.update.w1,150,1.7162,1,,
+write.update.w1,151,1.6002,1,,
+write.update.w1,152,1.6356,1,,
+write.update.w1,153,3.2793,1,,
+write.update.w1,154,1.7525,1,,
+write.update.w1,155,2.9149,1,,
+write.update.w1,156,1.6433,1,,
+write.update.w1,157,1.5245,1,,
+write.update.w1,158,1.6393,1,,
+write.update.w1,159,2.2148,1,,
+write.update.w1,160,1.6052,1,,
+write.update.w1,161,2.7524,1,,
+write.update.w1,162,1.5572,1,,
+write.update.w1,163,1.6003,1,,
+write.update.w1,164,2.1485,1,,
+write.update.w1,165,1.3946,1,,
+write.update.w1,166,1.5970,1,,
+write.update.w1,167,1.6014,1,,
+write.update.w1,168,1.6175,1,,
+write.update.w1,169,2.7379,1,,
+write.update.w1,170,2.2422,1,,
+write.update.w1,171,1.3813,1,,
+write.update.w1,172,1.5799,1,,
+write.update.w1,173,1.6439,1,,
+write.update.w1,174,2.0806,1,,
+write.update.w1,175,1.6298,1,,
+write.update.w1,176,1.6511,1,,
+write.update.w1,177,2.8161,1,,
+write.update.w1,178,1.5917,1,,
+write.update.w1,179,1.5971,1,,
+write.update.w1,180,1.5747,1,,
+write.update.w1,181,2.1485,1,,
+write.update.w1,182,1.6037,1,,
+write.update.w1,183,1.5544,1,,
+write.update.w1,184,1.5037,1,,
+write.update.w1,185,2.4666,1,,
+write.update.w1,186,1.5294,1,,
+write.update.w1,187,1.5481,1,,
+write.update.w1,188,1.5929,1,,
+write.update.w1,189,1.6288,1,,
+write.update.w1,190,1.6314,1,,
+write.update.w1,191,2.1415,1,,
+write.update.w1,192,1.6179,1,,
+write.update.w1,193,2.2481,1,,
+write.update.w1,194,1.6766,1,,
+write.update.w1,195,1.6243,1,,
+write.update.w1,196,2.2040,1,,
+write.update.w1,197,1.5977,1,,
+write.update.w1,198,1.5540,1,,
+write.update.w1,199,1.8588,1,,
+write.update.w1,200,1.5676,1,,
+write.update.w1,201,2.8884,1,,
+write.update.w1,202,2.3177,1,,
+write.update.w1,203,1.7398,1,,
+write.update.w1,204,1.4020,1,,
+write.update.w1,205,1.6214,1,,
+write.update.w1,206,2.2353,1,,
+write.update.w1,207,1.7489,1,,
+write.update.w1,208,1.6285,1,,
+write.update.w1,209,2.0809,1,,
+write.update.w1,210,1.6428,1,,
+write.update.w1,211,1.6958,1,,
+write.update.w1,212,1.8966,1,,
+write.update.w1,213,2.3284,1,,
+write.update.w1,214,1.3311,1,,
+write.update.w1,215,1.6923,1,,
+write.update.w1,216,1.7320,1,,
+write.update.w1,217,3.5083,1,,
+write.update.w1,218,1.7334,1,,
+write.update.w1,219,1.7265,1,,
+write.update.w1,220,1.3821,1,,
+write.update.w1,221,1.6507,1,,
+write.update.w1,222,1.5005,1,,
+write.update.w1,223,2.1687,1,,
+write.update.w1,224,1.9337,1,,
+write.update.w1,225,2.8453,1,,
+write.update.w1,226,1.6089,1,,
+write.update.w1,227,1.6592,1,,
+write.update.w1,228,2.1934,1,,
+write.update.w1,229,1.7813,1,,
+write.update.w1,230,1.6244,1,,
+write.update.w1,231,1.6006,1,,
+write.update.w1,232,1.6207,1,,
+write.update.w1,233,2.6219,1,,
+write.update.w1,234,2.2840,1,,
+write.update.w1,235,1.7916,1,,
+write.update.w1,236,1.6081,1,,
+write.update.w1,237,1.7089,1,,
+write.update.w1,238,2.3325,1,,
+write.update.w1,239,1.6421,1,,
+write.update.w1,240,1.8127,1,,
+write.update.w1,241,2.6942,1,,
+write.update.w1,242,1.8428,1,,
+write.update.w1,243,1.5735,1,,
+write.update.w1,244,1.6416,1,,
+write.update.w1,245,2.3479,1,,
+write.update.w1,246,1.6698,1,,
+write.update.w1,247,1.6012,1,,
+write.update.w1,248,1.9952,1,,
+write.update.w1,249,2.5560,1,,
+write.update.w1,250,1.6964,1,,
+write.update.w1,251,1.7129,1,,
+write.update.w1,252,1.5273,1,,
+write.update.w1,253,1.6551,1,,
+write.update.w1,254,1.5303,1,,
+write.update.w1,255,2.2544,1,,
+write.update.w1,256,1.5163,1,,
+write.update.w1,257,2.0808,1,,
+write.update.w1,258,1.4265,1,,
+write.update.w1,259,1.5994,1,,
+write.update.w1,260,2.2976,1,,
+write.update.w1,261,1.7026,1,,
+write.update.w1,262,1.7258,1,,
+write.update.w1,263,1.7741,1,,
+write.update.w1,264,1.6356,1,,
+write.update.w1,265,2.4073,1,,
+write.update.w1,266,2.2073,1,,
+write.update.w1,267,1.8550,1,,
+write.update.w1,268,1.6882,1,,
+write.update.w1,269,1.5838,1,,
+write.update.w1,270,2.2343,1,,
+write.update.w1,271,1.8748,1,,
+write.update.w1,272,1.7875,1,,
+write.update.w1,273,2.8015,1,,
+write.update.w1,274,1.7014,1,,
+write.update.w1,275,1.6145,1,,
+write.update.w1,276,1.6571,1,,
+write.update.w1,277,2.3848,1,,
+write.update.w1,278,1.7980,1,,
+write.update.w1,279,1.9035,1,,
+write.update.w1,280,1.6956,1,,
+write.update.w1,281,2.5446,1,,
+write.update.w1,282,1.9763,1,,
+write.update.w1,283,1.5987,1,,
+write.update.w1,284,1.6028,1,,
+write.update.w1,285,1.5401,1,,
+write.update.w1,286,1.7970,1,,
+write.update.w1,287,2.3152,1,,
+write.update.w1,288,1.8923,1,,
+write.update.w1,289,2.7545,1,,
+write.update.w1,290,1.6237,1,,
+write.update.w1,291,1.6874,1,,
+write.update.w1,292,2.2107,1,,
+write.update.w1,293,1.7148,1,,
+write.update.w1,294,1.5561,1,,
+write.update.w1,295,1.6990,1,,
+write.update.w1,296,1.6182,1,,
+write.update.w1,297,2.1833,1,,
+write.update.w1,298,2.2425,1,,
+write.update.w1,299,1.6071,1,,
+write.update.w1,300,1.6580,1,,
+write.update.w1,301,1.7342,1,,
+write.update.w1,302,2.2558,1,,
+write.update.w1,303,1.4098,1,,
+write.update.w1,304,1.6722,1,,
+write.update.w1,305,2.7582,1,,
+write.update.w1,306,1.6436,1,,
+write.update.w1,307,1.7220,1,,
+write.update.w1,308,1.7017,1,,
+write.update.w1,309,2.1945,1,,
+write.update.w1,310,1.5086,1,,
+write.update.w1,311,1.6275,1,,
+write.update.w1,312,1.5905,1,,
+write.update.w1,313,3.2644,1,,
+write.update.w1,314,1.7443,1,,
+write.update.w1,315,1.6491,1,,
+write.update.w1,316,1.6353,1,,
+write.update.w1,317,1.5941,1,,
+write.update.w1,318,1.5856,1,,
+write.update.w1,319,2.2973,1,,
+write.update.w1,320,1.6672,1,,
+write.update.w1,321,2.7515,1,,
+write.update.w1,322,1.7372,1,,
+write.update.w1,323,1.5921,1,,
+write.update.w1,324,2.3095,1,,
+write.update.w1,325,1.8745,1,,
+write.update.w1,326,1.6127,1,,
+write.update.w1,327,1.7606,1,,
+write.update.w1,328,1.5735,1,,
+write.update.w1,329,2.8355,1,,
+write.update.w1,330,2.2730,1,,
+write.update.w1,331,1.5918,1,,
+write.update.w1,332,1.7409,1,,
+write.update.w1,333,1.6082,1,,
+write.update.w1,334,2.3186,1,,
+write.update.w1,335,1.7198,1,,
+write.update.w1,336,1.5629,1,,
+write.update.w1,337,2.5600,1,,
+write.update.w1,338,1.6569,1,,
+write.update.w1,339,1.6627,1,,
+write.update.w1,340,1.6681,1,,
+write.update.w1,341,2.3823,1,,
+write.update.w1,342,1.6393,1,,
+write.update.w1,343,1.5658,1,,
+write.update.w1,344,1.6562,1,,
+write.update.w1,345,2.7252,1,,
+write.update.w1,346,1.5957,1,,
+write.update.w1,347,1.5616,1,,
+write.update.w1,348,1.6814,1,,
+write.update.w1,349,1.6392,1,,
+write.update.w1,350,1.7233,1,,
+write.update.w1,351,2.1549,1,,
+write.update.w1,352,1.5406,1,,
+write.update.w1,353,2.6774,1,,
+write.update.w1,354,1.7875,1,,
+write.update.w1,355,1.6418,1,,
+write.update.w1,356,2.1648,1,,
+write.update.w1,357,1.6112,1,,
+write.update.w1,358,1.5893,1,,
+write.update.w1,359,1.6079,1,,
+write.update.w1,360,1.6227,1,,
+write.update.w1,361,2.6621,1,,
+write.update.w1,362,2.3185,1,,
+write.update.w1,363,1.4535,1,,
+write.update.w1,364,1.7389,1,,
+write.update.w1,365,1.6883,1,,
+write.update.w1,366,2.4018,1,,
+write.update.w1,367,1.5727,1,,
+write.update.w1,368,1.5878,1,,
+write.update.w1,369,2.5590,1,,
+write.update.w1,370,1.8266,1,,
+write.update.w1,371,1.5784,1,,
+write.update.w1,372,1.6457,1,,
+write.update.w1,373,2.1861,1,,
+write.update.w1,374,1.8317,1,,
+write.update.w1,375,1.5768,1,,
+write.update.w1,376,1.6287,1,,
+write.update.w1,377,3.3793,1,,
+write.update.w1,378,1.7839,1,,
+write.update.w1,379,1.6658,1,,
+write.update.w1,380,1.7532,1,,
+write.update.w1,381,1.6649,1,,
+write.update.w1,382,1.5406,1,,
+write.update.w1,383,2.4832,1,,
+write.update.w1,384,1.6261,1,,
+write.update.w1,385,2.6969,1,,
+write.update.w1,386,1.5726,1,,
+write.update.w1,387,1.6362,1,,
+write.update.w1,388,2.3282,1,,
+write.update.w1,389,1.7694,1,,
+write.update.w1,390,1.8077,1,,
+write.update.w1,391,1.6057,1,,
+write.update.w1,392,1.9500,1,,
+write.update.w1,393,2.5144,1,,
+write.update.w1,394,2.2273,1,,
+write.update.w1,395,1.3518,1,,
+write.update.w1,396,1.6183,1,,
+write.update.w1,397,1.7552,1,,
+write.update.w1,398,2.1992,1,,
+write.update.w1,399,1.8833,1,,
+write.update.w1,400,1.7721,1,,
+write.update.w1,401,2.5868,1,,
+write.update.w1,402,1.5117,1,,
+write.update.w1,403,1.6448,1,,
+write.update.w1,404,1.6231,1,,
+write.update.w1,405,2.1893,1,,
+write.update.w1,406,1.7151,1,,
+write.update.w1,407,1.6343,1,,
+write.update.w1,408,1.6986,1,,
+write.update.w1,409,3.1197,1,,
+write.update.w1,410,1.6764,1,,
+write.update.w1,411,1.5776,1,,
+write.update.w1,412,1.7531,1,,
+write.update.w1,413,1.6848,1,,
+write.update.w1,414,1.8026,1,,
+write.update.w1,415,2.2670,1,,
+write.update.w1,416,1.5483,1,,
+write.update.w1,417,2.3686,1,,
+write.update.w1,418,1.5169,1,,
+write.update.w1,419,1.5501,1,,
+write.update.w1,420,2.1699,1,,
+write.update.w1,421,1.7390,1,,
+write.update.w1,422,1.5926,1,,
+write.update.w1,423,1.5642,1,,
+write.update.w1,424,1.6968,1,,
+write.update.w1,425,2.7235,1,,
+write.update.w1,426,2.1574,1,,
+write.update.w1,427,1.6881,1,,
+write.update.w1,428,1.6920,1,,
+write.update.w1,429,3.5202,1,,
+write.update.w1,430,2.2115,1,,
+write.update.w1,431,1.7123,1,,
+write.update.w1,432,1.5644,1,,
+write.update.w1,433,2.6757,1,,
+write.update.w1,434,1.6369,1,,
+write.update.w1,435,1.7310,1,,
+write.update.w1,436,1.5772,1,,
+write.update.w1,437,2.3781,1,,
+write.update.w1,438,1.6483,1,,
+write.update.w1,439,1.5971,1,,
+write.update.w1,440,1.9146,1,,
+write.update.w1,441,3.6427,1,,
+write.update.w1,442,1.5852,1,,
+write.update.w1,443,1.8140,1,,
+write.update.w1,444,1.5957,1,,
+write.update.w1,445,1.6914,1,,
+write.update.w1,446,1.6562,1,,
+write.update.w1,447,2.3415,1,,
+write.update.w1,448,1.6151,1,,
+write.update.w1,449,2.5836,1,,
+write.update.w1,450,1.6602,1,,
+write.update.w1,451,1.7178,1,,
+write.update.w1,452,2.3345,1,,
+write.update.w1,453,1.5825,1,,
+write.update.w1,454,1.6603,1,,
+write.update.w1,455,1.8561,1,,
+write.update.w1,456,1.6338,1,,
+write.update.w1,457,2.8084,1,,
+write.update.w1,458,2.3469,1,,
+write.update.w1,459,1.7724,1,,
+write.update.w1,460,1.6032,1,,
+write.update.w1,461,1.7388,1,,
+write.update.w1,462,2.2179,1,,
+write.update.w1,463,1.6930,1,,
+write.update.w1,464,1.7848,1,,
+write.update.w1,465,2.9771,1,,
+write.update.w1,466,1.5945,1,,
+write.update.w1,467,1.7806,1,,
+write.update.w1,468,1.7817,1,,
+write.update.w1,469,2.1130,1,,
+write.update.w1,470,1.9702,1,,
+write.update.w1,471,1.6571,1,,
+write.update.w1,472,1.7212,1,,
+write.update.w1,473,3.2468,1,,
+write.update.w1,474,1.9937,1,,
+write.update.w1,475,1.3338,1,,
+write.update.w1,476,1.6643,1,,
+write.update.w1,477,1.4149,1,,
+write.update.w1,478,1.7161,1,,
+write.update.w1,479,2.4692,1,,
+write.update.w1,480,1.7656,1,,
+write.update.w1,481,2.6247,1,,
+write.update.w1,482,5.6303,1,,
+write.update.w1,483,1.6944,1,,
+write.update.w1,484,2.3189,1,,
+write.update.w1,485,1.9590,1,,
+write.update.w1,486,1.6031,1,,
+write.update.w1,487,1.8352,1,,
+write.update.w1,488,1.5562,1,,
+write.update.w1,489,2.8659,1,,
+write.update.w1,490,2.6878,1,,
+write.update.w1,491,1.6115,1,,
+write.update.w1,492,1.7065,1,,
+write.update.w1,493,1.8017,1,,
+write.update.w1,494,2.4102,1,,
+write.update.w1,495,1.8614,1,,
+write.update.w1,496,1.6473,1,,
+write.update.w1,497,2.5538,1,,
+write.update.w1,498,1.6087,1,,
+write.update.w1,499,1.8674,1,,
+read.by_id.primary,0,0.3284,1,,
+read.by_id.primary,1,0.2680,1,,
+read.by_id.primary,2,0.2858,1,,
+read.by_id.primary,3,0.2339,1,,
+read.by_id.primary,4,0.2397,1,,
+read.by_id.primary,5,0.3154,1,,
+read.by_id.primary,6,0.3020,1,,
+read.by_id.primary,7,0.2374,1,,
+read.by_id.primary,8,0.2177,1,,
+read.by_id.primary,9,0.3554,1,,
+read.by_id.primary,10,0.3084,1,,
+read.by_id.primary,11,0.2053,1,,
+read.by_id.primary,12,0.1695,1,,
+read.by_id.primary,13,0.1961,1,,
+read.by_id.primary,14,0.2370,1,,
+read.by_id.primary,15,0.1881,1,,
+read.by_id.primary,16,0.1607,1,,
+read.by_id.primary,17,0.2241,1,,
+read.by_id.primary,18,0.2413,1,,
+read.by_id.primary,19,0.2166,1,,
+read.by_id.primary,20,0.2220,1,,
+read.by_id.primary,21,0.2217,1,,
+read.by_id.primary,22,0.2112,1,,
+read.by_id.primary,23,0.2814,1,,
+read.by_id.primary,24,0.2408,1,,
+read.by_id.primary,25,0.2373,1,,
+read.by_id.primary,26,0.1945,1,,
+read.by_id.primary,27,0.4229,1,,
+read.by_id.primary,28,0.3362,1,,
+read.by_id.primary,29,0.2693,1,,
+read.by_id.primary,30,0.2962,1,,
+read.by_id.primary,31,0.2541,1,,
+read.by_id.primary,32,0.2877,1,,
+read.by_id.primary,33,0.2398,1,,
+read.by_id.primary,34,0.2838,1,,
+read.by_id.primary,35,0.2476,1,,
+read.by_id.primary,36,0.2371,1,,
+read.by_id.primary,37,0.2669,1,,
+read.by_id.primary,38,0.3418,1,,
+read.by_id.primary,39,0.2358,1,,
+read.by_id.primary,40,0.2429,1,,
+read.by_id.primary,41,0.2175,1,,
+read.by_id.primary,42,0.2912,1,,
+read.by_id.primary,43,0.2307,1,,
+read.by_id.primary,44,0.1916,1,,
+read.by_id.primary,45,0.2553,1,,
+read.by_id.primary,46,0.2686,1,,
+read.by_id.primary,47,0.2218,1,,
+read.by_id.primary,48,0.1847,1,,
+read.by_id.primary,49,0.2446,1,,
+read.by_id.primary,50,0.3190,1,,
+read.by_id.primary,51,0.2329,1,,
+read.by_id.primary,52,0.2056,1,,
+read.by_id.primary,53,0.2210,1,,
+read.by_id.primary,54,0.2498,1,,
+read.by_id.primary,55,0.2036,1,,
+read.by_id.primary,56,0.2156,1,,
+read.by_id.primary,57,0.1909,1,,
+read.by_id.primary,58,0.1791,1,,
+read.by_id.primary,59,0.2147,1,,
+read.by_id.primary,60,0.1741,1,,
+read.by_id.primary,61,0.2859,1,,
+read.by_id.primary,62,0.3890,1,,
+read.by_id.primary,63,0.2478,1,,
+read.by_id.primary,64,0.2283,1,,
+read.by_id.primary,65,0.2254,1,,
+read.by_id.primary,66,0.2582,1,,
+read.by_id.primary,67,0.2935,1,,
+read.by_id.primary,68,0.2676,1,,
+read.by_id.primary,69,0.1998,1,,
+read.by_id.primary,70,0.1754,1,,
+read.by_id.primary,71,0.2579,1,,
+read.by_id.primary,72,0.2550,1,,
+read.by_id.primary,73,0.2752,1,,
+read.by_id.primary,74,0.2188,1,,
+read.by_id.primary,75,0.2646,1,,
+read.by_id.primary,76,0.2528,1,,
+read.by_id.primary,77,0.2253,1,,
+read.by_id.primary,78,0.2633,1,,
+read.by_id.primary,79,0.2988,1,,
+read.by_id.primary,80,0.1939,1,,
+read.by_id.primary,81,0.2532,1,,
+read.by_id.primary,82,0.4943,1,,
+read.by_id.primary,83,0.3340,1,,
+read.by_id.primary,84,0.3030,1,,
+read.by_id.primary,85,0.3423,1,,
+read.by_id.primary,86,0.2813,1,,
+read.by_id.primary,87,0.2373,1,,
+read.by_id.primary,88,0.1917,1,,
+read.by_id.primary,89,0.2173,1,,
+read.by_id.primary,90,0.2444,1,,
+read.by_id.primary,91,0.2123,1,,
+read.by_id.primary,92,0.2549,1,,
+read.by_id.primary,93,0.3409,1,,
+read.by_id.primary,94,0.2016,1,,
+read.by_id.primary,95,0.1701,1,,
+read.by_id.primary,96,0.2379,1,,
+read.by_id.primary,97,0.2428,1,,
+read.by_id.primary,98,0.2786,1,,
+read.by_id.primary,99,0.2647,1,,
+read.by_id.primary,100,0.2280,1,,
+read.by_id.primary,101,0.2086,1,,
+read.by_id.primary,102,0.2518,1,,
+read.by_id.primary,103,0.2012,1,,
+read.by_id.primary,104,0.2173,1,,
+read.by_id.primary,105,0.1815,1,,
+read.by_id.primary,106,0.2960,1,,
+read.by_id.primary,107,0.2103,1,,
+read.by_id.primary,108,0.2430,1,,
+read.by_id.primary,109,0.2537,1,,
+read.by_id.primary,110,0.2589,1,,
+read.by_id.primary,111,0.2399,1,,
+read.by_id.primary,112,0.2131,1,,
+read.by_id.primary,113,0.2184,1,,
+read.by_id.primary,114,0.2361,1,,
+read.by_id.primary,115,0.2691,1,,
+read.by_id.primary,116,0.1828,1,,
+read.by_id.primary,117,0.1630,1,,
+read.by_id.primary,118,0.1601,1,,
+read.by_id.primary,119,0.1636,1,,
+read.by_id.primary,120,0.2545,1,,
+read.by_id.primary,121,0.2386,1,,
+read.by_id.primary,122,0.2500,1,,
+read.by_id.primary,123,0.2259,1,,
+read.by_id.primary,124,0.2696,1,,
+read.by_id.primary,125,0.2624,1,,
+read.by_id.primary,126,0.2445,1,,
+read.by_id.primary,127,0.2201,1,,
+read.by_id.primary,128,0.2399,1,,
+read.by_id.primary,129,0.1727,1,,
+read.by_id.primary,130,0.1619,1,,
+read.by_id.primary,131,0.2285,1,,
+read.by_id.primary,132,0.2024,1,,
+read.by_id.primary,133,0.2118,1,,
+read.by_id.primary,134,0.1711,1,,
+read.by_id.primary,135,0.1914,1,,
+read.by_id.primary,136,0.1563,1,,
+read.by_id.primary,137,0.1634,1,,
+read.by_id.primary,138,0.1964,1,,
+read.by_id.primary,139,0.1880,1,,
+read.by_id.primary,140,0.2144,1,,
+read.by_id.primary,141,0.1822,1,,
+read.by_id.primary,142,0.1942,1,,
+read.by_id.primary,143,0.2855,1,,
+read.by_id.primary,144,0.2592,1,,
+read.by_id.primary,145,0.2309,1,,
+read.by_id.primary,146,0.1938,1,,
+read.by_id.primary,147,0.2335,1,,
+read.by_id.primary,148,0.2565,1,,
+read.by_id.primary,149,0.1843,1,,
+read.by_id.primary,150,0.1627,1,,
+read.by_id.primary,151,0.2000,1,,
+read.by_id.primary,152,0.2100,1,,
+read.by_id.primary,153,0.1709,1,,
+read.by_id.primary,154,0.1671,1,,
+read.by_id.primary,155,0.2465,1,,
+read.by_id.primary,156,0.2503,1,,
+read.by_id.primary,157,0.3496,1,,
+read.by_id.primary,158,0.2533,1,,
+read.by_id.primary,159,0.1802,1,,
+read.by_id.primary,160,0.4096,1,,
+read.by_id.primary,161,0.3308,1,,
+read.by_id.primary,162,0.2258,1,,
+read.by_id.primary,163,0.1977,1,,
+read.by_id.primary,164,0.2176,1,,
+read.by_id.primary,165,0.2479,1,,
+read.by_id.primary,166,0.1781,1,,
+read.by_id.primary,167,0.2231,1,,
+read.by_id.primary,168,0.2770,1,,
+read.by_id.primary,169,0.2750,1,,
+read.by_id.primary,170,0.2281,1,,
+read.by_id.primary,171,0.2151,1,,
+read.by_id.primary,172,0.2220,1,,
+read.by_id.primary,173,0.2558,1,,
+read.by_id.primary,174,0.2271,1,,
+read.by_id.primary,175,0.2335,1,,
+read.by_id.primary,176,0.1698,1,,
+read.by_id.primary,177,0.2197,1,,
+read.by_id.primary,178,0.2288,1,,
+read.by_id.primary,179,0.2272,1,,
+read.by_id.primary,180,0.2041,1,,
+read.by_id.primary,181,0.2114,1,,
+read.by_id.primary,182,0.2916,1,,
+read.by_id.primary,183,0.3728,1,,
+read.by_id.primary,184,0.2701,1,,
+read.by_id.primary,185,0.2853,1,,
+read.by_id.primary,186,0.2749,1,,
+read.by_id.primary,187,0.2678,1,,
+read.by_id.primary,188,0.2840,1,,
+read.by_id.primary,189,0.2892,1,,
+read.by_id.primary,190,0.2065,1,,
+read.by_id.primary,191,0.1720,1,,
+read.by_id.primary,192,0.1629,1,,
+read.by_id.primary,193,0.2906,1,,
+read.by_id.primary,194,0.2232,1,,
+read.by_id.primary,195,0.2318,1,,
+read.by_id.primary,196,0.2044,1,,
+read.by_id.primary,197,0.3255,1,,
+read.by_id.primary,198,0.2606,1,,
+read.by_id.primary,199,0.2296,1,,
+read.by_id.primary,200,0.2173,1,,
+read.by_id.primary,201,0.2883,1,,
+read.by_id.primary,202,0.2555,1,,
+read.by_id.primary,203,0.2231,1,,
+read.by_id.primary,204,0.1994,1,,
+read.by_id.primary,205,0.1986,1,,
+read.by_id.primary,206,0.2477,1,,
+read.by_id.primary,207,0.1715,1,,
+read.by_id.primary,208,0.2210,1,,
+read.by_id.primary,209,0.2264,1,,
+read.by_id.primary,210,0.2318,1,,
+read.by_id.primary,211,0.2040,1,,
+read.by_id.primary,212,0.1719,1,,
+read.by_id.primary,213,0.2692,1,,
+read.by_id.primary,214,0.2055,1,,
+read.by_id.primary,215,0.2897,1,,
+read.by_id.primary,216,0.2261,1,,
+read.by_id.primary,217,0.2163,1,,
+read.by_id.primary,218,0.2884,1,,
+read.by_id.primary,219,0.2782,1,,
+read.by_id.primary,220,0.2316,1,,
+read.by_id.primary,221,0.1924,1,,
+read.by_id.primary,222,0.2041,1,,
+read.by_id.primary,223,0.2325,1,,
+read.by_id.primary,224,0.2156,1,,
+read.by_id.primary,225,0.2099,1,,
+read.by_id.primary,226,0.2062,1,,
+read.by_id.primary,227,0.2171,1,,
+read.by_id.primary,228,0.3575,1,,
+read.by_id.primary,229,0.2505,1,,
+read.by_id.primary,230,0.2355,1,,
+read.by_id.primary,231,0.2741,1,,
+read.by_id.primary,232,0.2521,1,,
+read.by_id.primary,233,0.2202,1,,
+read.by_id.primary,234,0.2085,1,,
+read.by_id.primary,235,0.1873,1,,
+read.by_id.primary,236,0.1833,1,,
+read.by_id.primary,237,0.2063,1,,
+read.by_id.primary,238,0.2304,1,,
+read.by_id.primary,239,0.2228,1,,
+read.by_id.primary,240,0.1886,1,,
+read.by_id.primary,241,0.2592,1,,
+read.by_id.primary,242,0.2326,1,,
+read.by_id.primary,243,0.2259,1,,
+read.by_id.primary,244,0.2793,1,,
+read.by_id.primary,245,0.2606,1,,
+read.by_id.primary,246,0.2482,1,,
+read.by_id.primary,247,0.2317,1,,
+read.by_id.primary,248,0.4797,1,,
+read.by_id.primary,249,0.3051,1,,
+read.by_id.primary,250,0.2365,1,,
+read.by_id.primary,251,0.2272,1,,
+read.by_id.primary,252,0.1993,1,,
+read.by_id.primary,253,0.1725,1,,
+read.by_id.primary,254,0.2044,1,,
+read.by_id.primary,255,0.2025,1,,
+read.by_id.primary,256,0.2629,1,,
+read.by_id.primary,257,0.2250,1,,
+read.by_id.primary,258,0.2697,1,,
+read.by_id.primary,259,0.2194,1,,
+read.by_id.primary,260,0.2391,1,,
+read.by_id.primary,261,0.1816,1,,
+read.by_id.primary,262,0.1614,1,,
+read.by_id.primary,263,0.2392,1,,
+read.by_id.primary,264,0.2148,1,,
+read.by_id.primary,265,0.2172,1,,
+read.by_id.primary,266,0.1739,1,,
+read.by_id.primary,267,0.1982,1,,
+read.by_id.primary,268,0.2060,1,,
+read.by_id.primary,269,0.2088,1,,
+read.by_id.primary,270,0.2359,1,,
+read.by_id.primary,271,0.2581,1,,
+read.by_id.primary,272,0.1934,1,,
+read.by_id.primary,273,0.1938,1,,
+read.by_id.primary,274,0.2387,1,,
+read.by_id.primary,275,0.2578,1,,
+read.by_id.primary,276,0.2233,1,,
+read.by_id.primary,277,0.2110,1,,
+read.by_id.primary,278,0.1956,1,,
+read.by_id.primary,279,0.2324,1,,
+read.by_id.primary,280,0.2315,1,,
+read.by_id.primary,281,0.1915,1,,
+read.by_id.primary,282,0.1699,1,,
+read.by_id.primary,283,0.1664,1,,
+read.by_id.primary,284,0.1745,1,,
+read.by_id.primary,285,0.1816,1,,
+read.by_id.primary,286,0.1615,1,,
+read.by_id.primary,287,0.1588,1,,
+read.by_id.primary,288,0.1584,1,,
+read.by_id.primary,289,0.1863,1,,
+read.by_id.primary,290,0.1707,1,,
+read.by_id.primary,291,0.2240,1,,
+read.by_id.primary,292,0.2152,1,,
+read.by_id.primary,293,0.2058,1,,
+read.by_id.primary,294,0.2459,1,,
+read.by_id.primary,295,0.1886,1,,
+read.by_id.primary,296,0.1950,1,,
+read.by_id.primary,297,0.1935,1,,
+read.by_id.primary,298,0.1827,1,,
+read.by_id.primary,299,0.1679,1,,
+read.by_id.primary,300,0.1713,1,,
+read.by_id.primary,301,0.1638,1,,
+read.by_id.primary,302,0.1833,1,,
+read.by_id.primary,303,0.1589,1,,
+read.by_id.primary,304,0.1578,1,,
+read.by_id.primary,305,0.1939,1,,
+read.by_id.primary,306,0.1807,1,,
+read.by_id.primary,307,0.1654,1,,
+read.by_id.primary,308,0.1598,1,,
+read.by_id.primary,309,0.1573,1,,
+read.by_id.primary,310,0.1570,1,,
+read.by_id.primary,311,0.1877,1,,
+read.by_id.primary,312,0.1712,1,,
+read.by_id.primary,313,0.1790,1,,
+read.by_id.primary,314,0.1880,1,,
+read.by_id.primary,315,0.2003,1,,
+read.by_id.primary,316,0.2835,1,,
+read.by_id.primary,317,0.2945,1,,
+read.by_id.primary,318,0.2347,1,,
+read.by_id.primary,319,0.2191,1,,
+read.by_id.primary,320,0.1972,1,,
+read.by_id.primary,321,0.2022,1,,
+read.by_id.primary,322,0.2356,1,,
+read.by_id.primary,323,0.1805,1,,
+read.by_id.primary,324,0.1631,1,,
+read.by_id.primary,325,0.1594,1,,
+read.by_id.primary,326,0.2022,1,,
+read.by_id.primary,327,0.1773,1,,
+read.by_id.primary,328,0.1689,1,,
+read.by_id.primary,329,0.1958,1,,
+read.by_id.primary,330,0.2327,1,,
+read.by_id.primary,331,0.1888,1,,
+read.by_id.primary,332,0.1779,1,,
+read.by_id.primary,333,0.1628,1,,
+read.by_id.primary,334,0.1606,1,,
+read.by_id.primary,335,0.1602,1,,
+read.by_id.primary,336,0.1620,1,,
+read.by_id.primary,337,0.1714,1,,
+read.by_id.primary,338,0.1636,1,,
+read.by_id.primary,339,0.1593,1,,
+read.by_id.primary,340,0.1611,1,,
+read.by_id.primary,341,0.1561,1,,
+read.by_id.primary,342,0.1572,1,,
+read.by_id.primary,343,0.1959,1,,
+read.by_id.primary,344,0.2008,1,,
+read.by_id.primary,345,0.1639,1,,
+read.by_id.primary,346,0.2216,1,,
+read.by_id.primary,347,0.2212,1,,
+read.by_id.primary,348,0.1868,1,,
+read.by_id.primary,349,0.2098,1,,
+read.by_id.primary,350,0.2425,1,,
+read.by_id.primary,351,0.1969,1,,
+read.by_id.primary,352,0.1801,1,,
+read.by_id.primary,353,0.1687,1,,
+read.by_id.primary,354,0.1841,1,,
+read.by_id.primary,355,0.1964,1,,
+read.by_id.primary,356,0.2192,1,,
+read.by_id.primary,357,0.1928,1,,
+read.by_id.primary,358,0.1778,1,,
+read.by_id.primary,359,0.1800,1,,
+read.by_id.primary,360,0.1621,1,,
+read.by_id.primary,361,0.1598,1,,
+read.by_id.primary,362,0.1634,1,,
+read.by_id.primary,363,0.1611,1,,
+read.by_id.primary,364,0.1849,1,,
+read.by_id.primary,365,0.1650,1,,
+read.by_id.primary,366,0.1592,1,,
+read.by_id.primary,367,0.1590,1,,
+read.by_id.primary,368,0.1585,1,,
+read.by_id.primary,369,0.2422,1,,
+read.by_id.primary,370,0.2361,1,,
+read.by_id.primary,371,0.1733,1,,
+read.by_id.primary,372,0.1728,1,,
+read.by_id.primary,373,0.1818,1,,
+read.by_id.primary,374,0.2302,1,,
+read.by_id.primary,375,0.2061,1,,
+read.by_id.primary,376,0.1675,1,,
+read.by_id.primary,377,0.1610,1,,
+read.by_id.primary,378,0.1778,1,,
+read.by_id.primary,379,0.1849,1,,
+read.by_id.primary,380,0.2088,1,,
+read.by_id.primary,381,0.2121,1,,
+read.by_id.primary,382,0.1972,1,,
+read.by_id.primary,383,0.1634,1,,
+read.by_id.primary,384,0.1954,1,,
+read.by_id.primary,385,0.2267,1,,
+read.by_id.primary,386,0.2051,1,,
+read.by_id.primary,387,0.1714,1,,
+read.by_id.primary,388,0.2023,1,,
+read.by_id.primary,389,0.2102,1,,
+read.by_id.primary,390,0.1761,1,,
+read.by_id.primary,391,0.1977,1,,
+read.by_id.primary,392,0.1808,1,,
+read.by_id.primary,393,0.1614,1,,
+read.by_id.primary,394,0.1593,1,,
+read.by_id.primary,395,0.1583,1,,
+read.by_id.primary,396,0.2258,1,,
+read.by_id.primary,397,0.2044,1,,
+read.by_id.primary,398,0.1685,1,,
+read.by_id.primary,399,0.1713,1,,
+read.by_id.primary,400,0.1942,1,,
+read.by_id.primary,401,0.1808,1,,
+read.by_id.primary,402,0.1876,1,,
+read.by_id.primary,403,0.1650,1,,
+read.by_id.primary,404,0.1580,1,,
+read.by_id.primary,405,0.1568,1,,
+read.by_id.primary,406,0.1579,1,,
+read.by_id.primary,407,0.1694,1,,
+read.by_id.primary,408,0.1681,1,,
+read.by_id.primary,409,0.1599,1,,
+read.by_id.primary,410,0.1601,1,,
+read.by_id.primary,411,0.1565,1,,
+read.by_id.primary,412,0.1524,1,,
+read.by_id.primary,413,0.1685,1,,
+read.by_id.primary,414,0.1670,1,,
+read.by_id.primary,415,0.1646,1,,
+read.by_id.primary,416,0.1580,1,,
+read.by_id.primary,417,0.1553,1,,
+read.by_id.primary,418,0.1550,1,,
+read.by_id.primary,419,0.1561,1,,
+read.by_id.primary,420,0.1625,1,,
+read.by_id.primary,421,0.1629,1,,
+read.by_id.primary,422,0.1585,1,,
+read.by_id.primary,423,0.1541,1,,
+read.by_id.primary,424,0.1547,1,,
+read.by_id.primary,425,0.1545,1,,
+read.by_id.primary,426,0.1559,1,,
+read.by_id.primary,427,0.1705,1,,
+read.by_id.primary,428,0.1778,1,,
+read.by_id.primary,429,0.1823,1,,
+read.by_id.primary,430,0.1715,1,,
+read.by_id.primary,431,0.1794,1,,
+read.by_id.primary,432,0.1842,1,,
+read.by_id.primary,433,0.1628,1,,
+read.by_id.primary,434,0.2337,1,,
+read.by_id.primary,435,0.1773,1,,
+read.by_id.primary,436,0.1601,1,,
+read.by_id.primary,437,0.1828,1,,
+read.by_id.primary,438,0.1898,1,,
+read.by_id.primary,439,0.1624,1,,
+read.by_id.primary,440,0.1568,1,,
+read.by_id.primary,441,0.1919,1,,
+read.by_id.primary,442,0.1789,1,,
+read.by_id.primary,443,0.1630,1,,
+read.by_id.primary,444,0.1585,1,,
+read.by_id.primary,445,0.1570,1,,
+read.by_id.primary,446,0.1550,1,,
+read.by_id.primary,447,0.1544,1,,
+read.by_id.primary,448,0.1545,1,,
+read.by_id.primary,449,0.1549,1,,
+read.by_id.primary,450,0.1609,1,,
+read.by_id.primary,451,0.1840,1,,
+read.by_id.primary,452,0.1564,1,,
+read.by_id.primary,453,0.1505,1,,
+read.by_id.primary,454,0.1517,1,,
+read.by_id.primary,455,0.2212,1,,
+read.by_id.primary,456,0.2085,1,,
+read.by_id.primary,457,0.1741,1,,
+read.by_id.primary,458,0.1701,1,,
+read.by_id.primary,459,0.2067,1,,
+read.by_id.primary,460,0.2463,1,,
+read.by_id.primary,461,0.1761,1,,
+read.by_id.primary,462,0.1612,1,,
+read.by_id.primary,463,0.1888,1,,
+read.by_id.primary,464,0.1966,1,,
+read.by_id.primary,465,0.1692,1,,
+read.by_id.primary,466,0.1670,1,,
+read.by_id.primary,467,0.1576,1,,
+read.by_id.primary,468,0.1611,1,,
+read.by_id.primary,469,0.1552,1,,
+read.by_id.primary,470,0.1552,1,,
+read.by_id.primary,471,0.1540,1,,
+read.by_id.primary,472,0.1744,1,,
+read.by_id.primary,473,0.1580,1,,
+read.by_id.primary,474,0.1572,1,,
+read.by_id.primary,475,0.1559,1,,
+read.by_id.primary,476,0.1552,1,,
+read.by_id.primary,477,0.1617,1,,
+read.by_id.primary,478,0.1549,1,,
+read.by_id.primary,479,0.1545,1,,
+read.by_id.primary,480,0.1536,1,,
+read.by_id.primary,481,0.1539,1,,
+read.by_id.primary,482,0.1527,1,,
+read.by_id.primary,483,0.1562,1,,
+read.by_id.primary,484,0.1694,1,,
+read.by_id.primary,485,0.1624,1,,
+read.by_id.primary,486,0.2065,1,,
+read.by_id.primary,487,0.2231,1,,
+read.by_id.primary,488,0.2152,1,,
+read.by_id.primary,489,0.2589,1,,
+read.by_id.primary,490,0.2240,1,,
+read.by_id.primary,491,0.2150,1,,
+read.by_id.primary,492,0.2194,1,,
+read.by_id.primary,493,0.1847,1,,
+read.by_id.primary,494,0.1687,1,,
+read.by_id.primary,495,0.2090,1,,
+read.by_id.primary,496,0.1685,1,,
+read.by_id.primary,497,0.1602,1,,
+read.by_id.primary,498,0.1839,1,,
+read.by_id.primary,499,0.2468,1,,
+read.by_id.secondary_preferred,0,0.2603,1,,
+read.by_id.secondary_preferred,1,0.2113,1,,
+read.by_id.secondary_preferred,2,0.1837,1,,
+read.by_id.secondary_preferred,3,0.2000,1,,
+read.by_id.secondary_preferred,4,0.1944,1,,
+read.by_id.secondary_preferred,5,0.1727,1,,
+read.by_id.secondary_preferred,6,0.1810,1,,
+read.by_id.secondary_preferred,7,0.1682,1,,
+read.by_id.secondary_preferred,8,0.1919,1,,
+read.by_id.secondary_preferred,9,0.1707,1,,
+read.by_id.secondary_preferred,10,0.1987,1,,
+read.by_id.secondary_preferred,11,0.1721,1,,
+read.by_id.secondary_preferred,12,0.1813,1,,
+read.by_id.secondary_preferred,13,0.1736,1,,
+read.by_id.secondary_preferred,14,0.1670,1,,
+read.by_id.secondary_preferred,15,0.1769,1,,
+read.by_id.secondary_preferred,16,0.1631,1,,
+read.by_id.secondary_preferred,17,0.1707,1,,
+read.by_id.secondary_preferred,18,0.1775,1,,
+read.by_id.secondary_preferred,19,0.2102,1,,
+read.by_id.secondary_preferred,20,0.2491,1,,
+read.by_id.secondary_preferred,21,0.2268,1,,
+read.by_id.secondary_preferred,22,0.1887,1,,
+read.by_id.secondary_preferred,23,0.1951,1,,
+read.by_id.secondary_preferred,24,0.2017,1,,
+read.by_id.secondary_preferred,25,0.1715,1,,
+read.by_id.secondary_preferred,26,0.1643,1,,
+read.by_id.secondary_preferred,27,0.2193,1,,
+read.by_id.secondary_preferred,28,0.3000,1,,
+read.by_id.secondary_preferred,29,0.2905,1,,
+read.by_id.secondary_preferred,30,0.3142,1,,
+read.by_id.secondary_preferred,31,0.3192,1,,
+read.by_id.secondary_preferred,32,0.2488,1,,
+read.by_id.secondary_preferred,33,0.2055,1,,
+read.by_id.secondary_preferred,34,0.1840,1,,
+read.by_id.secondary_preferred,35,0.2312,1,,
+read.by_id.secondary_preferred,36,0.2643,1,,
+read.by_id.secondary_preferred,37,0.2767,1,,
+read.by_id.secondary_preferred,38,0.3208,1,,
+read.by_id.secondary_preferred,39,0.3100,1,,
+read.by_id.secondary_preferred,40,0.2652,1,,
+read.by_id.secondary_preferred,41,0.1943,1,,
+read.by_id.secondary_preferred,42,0.1739,1,,
+read.by_id.secondary_preferred,43,0.1785,1,,
+read.by_id.secondary_preferred,44,0.1786,1,,
+read.by_id.secondary_preferred,45,0.2148,1,,
+read.by_id.secondary_preferred,46,0.2831,1,,
+read.by_id.secondary_preferred,47,0.2790,1,,
+read.by_id.secondary_preferred,48,0.2713,1,,
+read.by_id.secondary_preferred,49,0.2278,1,,
+read.by_id.secondary_preferred,50,0.2451,1,,
+read.by_id.secondary_preferred,51,0.2260,1,,
+read.by_id.secondary_preferred,52,0.2317,1,,
+read.by_id.secondary_preferred,53,0.2167,1,,
+read.by_id.secondary_preferred,54,0.2162,1,,
+read.by_id.secondary_preferred,55,0.2114,1,,
+read.by_id.secondary_preferred,56,0.2313,1,,
+read.by_id.secondary_preferred,57,0.2575,1,,
+read.by_id.secondary_preferred,58,0.2543,1,,
+read.by_id.secondary_preferred,59,0.1841,1,,
+read.by_id.secondary_preferred,60,0.1993,1,,
+read.by_id.secondary_preferred,61,0.2555,1,,
+read.by_id.secondary_preferred,62,0.2107,1,,
+read.by_id.secondary_preferred,63,0.1814,1,,
+read.by_id.secondary_preferred,64,0.1693,1,,
+read.by_id.secondary_preferred,65,0.2245,1,,
+read.by_id.secondary_preferred,66,0.2538,1,,
+read.by_id.secondary_preferred,67,0.2310,1,,
+read.by_id.secondary_preferred,68,0.1902,1,,
+read.by_id.secondary_preferred,69,0.1701,1,,
+read.by_id.secondary_preferred,70,0.1936,1,,
+read.by_id.secondary_preferred,71,0.1732,1,,
+read.by_id.secondary_preferred,72,0.1771,1,,
+read.by_id.secondary_preferred,73,0.1653,1,,
+read.by_id.secondary_preferred,74,0.1615,1,,
+read.by_id.secondary_preferred,75,0.1697,1,,
+read.by_id.secondary_preferred,76,0.1644,1,,
+read.by_id.secondary_preferred,77,0.2533,1,,
+read.by_id.secondary_preferred,78,0.2189,1,,
+read.by_id.secondary_preferred,79,0.2515,1,,
+read.by_id.secondary_preferred,80,0.2303,1,,
+read.by_id.secondary_preferred,81,0.1965,1,,
+read.by_id.secondary_preferred,82,0.1818,1,,
+read.by_id.secondary_preferred,83,0.2447,1,,
+read.by_id.secondary_preferred,84,0.1786,1,,
+read.by_id.secondary_preferred,85,0.2175,1,,
+read.by_id.secondary_preferred,86,0.1770,1,,
+read.by_id.secondary_preferred,87,0.1690,1,,
+read.by_id.secondary_preferred,88,0.1987,1,,
+read.by_id.secondary_preferred,89,0.2274,1,,
+read.by_id.secondary_preferred,90,0.1910,1,,
+read.by_id.secondary_preferred,91,0.2093,1,,
+read.by_id.secondary_preferred,92,0.2073,1,,
+read.by_id.secondary_preferred,93,0.1710,1,,
+read.by_id.secondary_preferred,94,0.1635,1,,
+read.by_id.secondary_preferred,95,0.1647,1,,
+read.by_id.secondary_preferred,96,0.1956,1,,
+read.by_id.secondary_preferred,97,0.2015,1,,
+read.by_id.secondary_preferred,98,0.1635,1,,
+read.by_id.secondary_preferred,99,0.1766,1,,
+read.by_id.secondary_preferred,100,0.2143,1,,
+read.by_id.secondary_preferred,101,0.2139,1,,
+read.by_id.secondary_preferred,102,0.1962,1,,
+read.by_id.secondary_preferred,103,0.1686,1,,
+read.by_id.secondary_preferred,104,0.1624,1,,
+read.by_id.secondary_preferred,105,0.1626,1,,
+read.by_id.secondary_preferred,106,0.2073,1,,
+read.by_id.secondary_preferred,107,0.2150,1,,
+read.by_id.secondary_preferred,108,0.1801,1,,
+read.by_id.secondary_preferred,109,0.1915,1,,
+read.by_id.secondary_preferred,110,0.1822,1,,
+read.by_id.secondary_preferred,111,0.1744,1,,
+read.by_id.secondary_preferred,112,0.2232,1,,
+read.by_id.secondary_preferred,113,0.2153,1,,
+read.by_id.secondary_preferred,114,0.2205,1,,
+read.by_id.secondary_preferred,115,0.1778,1,,
+read.by_id.secondary_preferred,116,0.1897,1,,
+read.by_id.secondary_preferred,117,0.1771,1,,
+read.by_id.secondary_preferred,118,0.1669,1,,
+read.by_id.secondary_preferred,119,0.1724,1,,
+read.by_id.secondary_preferred,120,0.1677,1,,
+read.by_id.secondary_preferred,121,0.1688,1,,
+read.by_id.secondary_preferred,122,0.1795,1,,
+read.by_id.secondary_preferred,123,0.1726,1,,
+read.by_id.secondary_preferred,124,0.1687,1,,
+read.by_id.secondary_preferred,125,0.1654,1,,
+read.by_id.secondary_preferred,126,0.1649,1,,
+read.by_id.secondary_preferred,127,0.1676,1,,
+read.by_id.secondary_preferred,128,0.1782,1,,
+read.by_id.secondary_preferred,129,0.1710,1,,
+read.by_id.secondary_preferred,130,0.1681,1,,
+read.by_id.secondary_preferred,131,0.1652,1,,
+read.by_id.secondary_preferred,132,0.1633,1,,
+read.by_id.secondary_preferred,133,0.1673,1,,
+read.by_id.secondary_preferred,134,0.1629,1,,
+read.by_id.secondary_preferred,135,0.1728,1,,
+read.by_id.secondary_preferred,136,0.1666,1,,
+read.by_id.secondary_preferred,137,0.1644,1,,
+read.by_id.secondary_preferred,138,0.1660,1,,
+read.by_id.secondary_preferred,139,0.1670,1,,
+read.by_id.secondary_preferred,140,0.1643,1,,
+read.by_id.secondary_preferred,141,0.1949,1,,
+read.by_id.secondary_preferred,142,0.1921,1,,
+read.by_id.secondary_preferred,143,0.2039,1,,
+read.by_id.secondary_preferred,144,0.1786,1,,
+read.by_id.secondary_preferred,145,0.1781,1,,
+read.by_id.secondary_preferred,146,0.2205,1,,
+read.by_id.secondary_preferred,147,0.1747,1,,
+read.by_id.secondary_preferred,148,0.1692,1,,
+read.by_id.secondary_preferred,149,0.1946,1,,
+read.by_id.secondary_preferred,150,0.2241,1,,
+read.by_id.secondary_preferred,151,0.1982,1,,
+read.by_id.secondary_preferred,152,0.1927,1,,
+read.by_id.secondary_preferred,153,0.1700,1,,
+read.by_id.secondary_preferred,154,0.2173,1,,
+read.by_id.secondary_preferred,155,0.2358,1,,
+read.by_id.secondary_preferred,156,0.2146,1,,
+read.by_id.secondary_preferred,157,0.2010,1,,
+read.by_id.secondary_preferred,158,0.1722,1,,
+read.by_id.secondary_preferred,159,0.1673,1,,
+read.by_id.secondary_preferred,160,0.1688,1,,
+read.by_id.secondary_preferred,161,0.1731,1,,
+read.by_id.secondary_preferred,162,0.1626,1,,
+read.by_id.secondary_preferred,163,0.1598,1,,
+read.by_id.secondary_preferred,164,0.1600,1,,
+read.by_id.secondary_preferred,165,0.1607,1,,
+read.by_id.secondary_preferred,166,0.1637,1,,
+read.by_id.secondary_preferred,167,0.1664,1,,
+read.by_id.secondary_preferred,168,0.1663,1,,
+read.by_id.secondary_preferred,169,0.1656,1,,
+read.by_id.secondary_preferred,170,0.1631,1,,
+read.by_id.secondary_preferred,171,0.1646,1,,
+read.by_id.secondary_preferred,172,0.1647,1,,
+read.by_id.secondary_preferred,173,0.2401,1,,
+read.by_id.secondary_preferred,174,0.2178,1,,
+read.by_id.secondary_preferred,175,0.2015,1,,
+read.by_id.secondary_preferred,176,0.2457,1,,
+read.by_id.secondary_preferred,177,0.2159,1,,
+read.by_id.secondary_preferred,178,0.1822,1,,
+read.by_id.secondary_preferred,179,0.1674,1,,
+read.by_id.secondary_preferred,180,0.1665,1,,
+read.by_id.secondary_preferred,181,0.1656,1,,
+read.by_id.secondary_preferred,182,0.1682,1,,
+read.by_id.secondary_preferred,183,0.1670,1,,
+read.by_id.secondary_preferred,184,0.1677,1,,
+read.by_id.secondary_preferred,185,0.1631,1,,
+read.by_id.secondary_preferred,186,0.1644,1,,
+read.by_id.secondary_preferred,187,0.1608,1,,
+read.by_id.secondary_preferred,188,0.2065,1,,
+read.by_id.secondary_preferred,189,0.1979,1,,
+read.by_id.secondary_preferred,190,0.1700,1,,
+read.by_id.secondary_preferred,191,0.1798,1,,
+read.by_id.secondary_preferred,192,0.2191,1,,
+read.by_id.secondary_preferred,193,0.2840,1,,
+read.by_id.secondary_preferred,194,0.2523,1,,
+read.by_id.secondary_preferred,195,0.2047,1,,
+read.by_id.secondary_preferred,196,0.1798,1,,
+read.by_id.secondary_preferred,197,0.2037,1,,
+read.by_id.secondary_preferred,198,0.2677,1,,
+read.by_id.secondary_preferred,199,0.2179,1,,
+read.by_id.secondary_preferred,200,0.2278,1,,
+read.by_id.secondary_preferred,201,0.2763,1,,
+read.by_id.secondary_preferred,202,0.2318,1,,
+read.by_id.secondary_preferred,203,0.1945,1,,
+read.by_id.secondary_preferred,204,0.1724,1,,
+read.by_id.secondary_preferred,205,0.1866,1,,
+read.by_id.secondary_preferred,206,0.1731,1,,
+read.by_id.secondary_preferred,207,0.1994,1,,
+read.by_id.secondary_preferred,208,0.2024,1,,
+read.by_id.secondary_preferred,209,0.1713,1,,
+read.by_id.secondary_preferred,210,0.1638,1,,
+read.by_id.secondary_preferred,211,0.1638,1,,
+read.by_id.secondary_preferred,212,0.1648,1,,
+read.by_id.secondary_preferred,213,0.1687,1,,
+read.by_id.secondary_preferred,214,0.1707,1,,
+read.by_id.secondary_preferred,215,0.2031,1,,
+read.by_id.secondary_preferred,216,0.1693,1,,
+read.by_id.secondary_preferred,217,0.1624,1,,
+read.by_id.secondary_preferred,218,0.2158,1,,
+read.by_id.secondary_preferred,219,0.2184,1,,
+read.by_id.secondary_preferred,220,0.1835,1,,
+read.by_id.secondary_preferred,221,0.1717,1,,
+read.by_id.secondary_preferred,222,0.1668,1,,
+read.by_id.secondary_preferred,223,0.1674,1,,
+read.by_id.secondary_preferred,224,0.1699,1,,
+read.by_id.secondary_preferred,225,0.1696,1,,
+read.by_id.secondary_preferred,226,0.1668,1,,
+read.by_id.secondary_preferred,227,0.1672,1,,
+read.by_id.secondary_preferred,228,0.1641,1,,
+read.by_id.secondary_preferred,229,0.1672,1,,
+read.by_id.secondary_preferred,230,0.1672,1,,
+read.by_id.secondary_preferred,231,0.1872,1,,
+read.by_id.secondary_preferred,232,0.1659,1,,
+read.by_id.secondary_preferred,233,0.1646,1,,
+read.by_id.secondary_preferred,234,0.1633,1,,
+read.by_id.secondary_preferred,235,0.1653,1,,
+read.by_id.secondary_preferred,236,0.2074,1,,
+read.by_id.secondary_preferred,237,0.2513,1,,
+read.by_id.secondary_preferred,238,0.2543,1,,
+read.by_id.secondary_preferred,239,0.2257,1,,
+read.by_id.secondary_preferred,240,0.2728,1,,
+read.by_id.secondary_preferred,241,0.2142,1,,
+read.by_id.secondary_preferred,242,0.2224,1,,
+read.by_id.secondary_preferred,243,0.1729,1,,
+read.by_id.secondary_preferred,244,0.1650,1,,
+read.by_id.secondary_preferred,245,0.1911,1,,
+read.by_id.secondary_preferred,246,0.1695,1,,
+read.by_id.secondary_preferred,247,0.1959,1,,
+read.by_id.secondary_preferred,248,0.1724,1,,
+read.by_id.secondary_preferred,249,0.2105,1,,
+read.by_id.secondary_preferred,250,0.2169,1,,
+read.by_id.secondary_preferred,251,0.1773,1,,
+read.by_id.secondary_preferred,252,0.1624,1,,
+read.by_id.secondary_preferred,253,0.1622,1,,
+read.by_id.secondary_preferred,254,0.1628,1,,
+read.by_id.secondary_preferred,255,0.1634,1,,
+read.by_id.secondary_preferred,256,0.1633,1,,
+read.by_id.secondary_preferred,257,0.1677,1,,
+read.by_id.secondary_preferred,258,0.1625,1,,
+read.by_id.secondary_preferred,259,0.2162,1,,
+read.by_id.secondary_preferred,260,0.1928,1,,
+read.by_id.secondary_preferred,261,0.2026,1,,
+read.by_id.secondary_preferred,262,0.1965,1,,
+read.by_id.secondary_preferred,263,0.1786,1,,
+read.by_id.secondary_preferred,264,0.2084,1,,
+read.by_id.secondary_preferred,265,0.2098,1,,
+read.by_id.secondary_preferred,266,0.1948,1,,
+read.by_id.secondary_preferred,267,0.2459,1,,
+read.by_id.secondary_preferred,268,0.2072,1,,
+read.by_id.secondary_preferred,269,0.1767,1,,
+read.by_id.secondary_preferred,270,0.1810,1,,
+read.by_id.secondary_preferred,271,0.1916,1,,
+read.by_id.secondary_preferred,272,0.2290,1,,
+read.by_id.secondary_preferred,273,0.2008,1,,
+read.by_id.secondary_preferred,274,0.1967,1,,
+read.by_id.secondary_preferred,275,0.1791,1,,
+read.by_id.secondary_preferred,276,0.1962,1,,
+read.by_id.secondary_preferred,277,0.1689,1,,
+read.by_id.secondary_preferred,278,0.1646,1,,
+read.by_id.secondary_preferred,279,0.1640,1,,
+read.by_id.secondary_preferred,280,0.1973,1,,
+read.by_id.secondary_preferred,281,0.1842,1,,
+read.by_id.secondary_preferred,282,0.2046,1,,
+read.by_id.secondary_preferred,283,0.2068,1,,
+read.by_id.secondary_preferred,284,0.2093,1,,
+read.by_id.secondary_preferred,285,0.2133,1,,
+read.by_id.secondary_preferred,286,0.1741,1,,
+read.by_id.secondary_preferred,287,0.1882,1,,
+read.by_id.secondary_preferred,288,0.1962,1,,
+read.by_id.secondary_preferred,289,0.2106,1,,
+read.by_id.secondary_preferred,290,0.2129,1,,
+read.by_id.secondary_preferred,291,0.1859,1,,
+read.by_id.secondary_preferred,292,0.2125,1,,
+read.by_id.secondary_preferred,293,0.2158,1,,
+read.by_id.secondary_preferred,294,0.1953,1,,
+read.by_id.secondary_preferred,295,0.1731,1,,
+read.by_id.secondary_preferred,296,0.1680,1,,
+read.by_id.secondary_preferred,297,0.1653,1,,
+read.by_id.secondary_preferred,298,0.1991,1,,
+read.by_id.secondary_preferred,299,0.1643,1,,
+read.by_id.secondary_preferred,300,0.1646,1,,
+read.by_id.secondary_preferred,301,0.1792,1,,
+read.by_id.secondary_preferred,302,0.2054,1,,
+read.by_id.secondary_preferred,303,0.1801,1,,
+read.by_id.secondary_preferred,304,0.1951,1,,
+read.by_id.secondary_preferred,305,0.1936,1,,
+read.by_id.secondary_preferred,306,0.2167,1,,
+read.by_id.secondary_preferred,307,0.1956,1,,
+read.by_id.secondary_preferred,308,0.2206,1,,
+read.by_id.secondary_preferred,309,0.2284,1,,
+read.by_id.secondary_preferred,310,0.1976,1,,
+read.by_id.secondary_preferred,311,0.2187,1,,
+read.by_id.secondary_preferred,312,0.2181,1,,
+read.by_id.secondary_preferred,313,0.2710,1,,
+read.by_id.secondary_preferred,314,0.2233,1,,
+read.by_id.secondary_preferred,315,0.1898,1,,
+read.by_id.secondary_preferred,316,0.1661,1,,
+read.by_id.secondary_preferred,317,0.1762,1,,
+read.by_id.secondary_preferred,318,0.1841,1,,
+read.by_id.secondary_preferred,319,0.1953,1,,
+read.by_id.secondary_preferred,320,0.1861,1,,
+read.by_id.secondary_preferred,321,0.1787,1,,
+read.by_id.secondary_preferred,322,0.1781,1,,
+read.by_id.secondary_preferred,323,0.1719,1,,
+read.by_id.secondary_preferred,324,0.1845,1,,
+read.by_id.secondary_preferred,325,0.2476,1,,
+read.by_id.secondary_preferred,326,0.2344,1,,
+read.by_id.secondary_preferred,327,0.2347,1,,
+read.by_id.secondary_preferred,328,0.2453,1,,
+read.by_id.secondary_preferred,329,0.2187,1,,
+read.by_id.secondary_preferred,330,0.1789,1,,
+read.by_id.secondary_preferred,331,0.1736,1,,
+read.by_id.secondary_preferred,332,0.1723,1,,
+read.by_id.secondary_preferred,333,0.1674,1,,
+read.by_id.secondary_preferred,334,0.1632,1,,
+read.by_id.secondary_preferred,335,0.1609,1,,
+read.by_id.secondary_preferred,336,0.1637,1,,
+read.by_id.secondary_preferred,337,0.1628,1,,
+read.by_id.secondary_preferred,338,0.1622,1,,
+read.by_id.secondary_preferred,339,0.1674,1,,
+read.by_id.secondary_preferred,340,0.1594,1,,
+read.by_id.secondary_preferred,341,0.1607,1,,
+read.by_id.secondary_preferred,342,0.1602,1,,
+read.by_id.secondary_preferred,343,0.1664,1,,
+read.by_id.secondary_preferred,344,0.1656,1,,
+read.by_id.secondary_preferred,345,0.1678,1,,
+read.by_id.secondary_preferred,346,0.1625,1,,
+read.by_id.secondary_preferred,347,0.1609,1,,
+read.by_id.secondary_preferred,348,0.1600,1,,
+read.by_id.secondary_preferred,349,0.1600,1,,
+read.by_id.secondary_preferred,350,0.1602,1,,
+read.by_id.secondary_preferred,351,0.1721,1,,
+read.by_id.secondary_preferred,352,0.1638,1,,
+read.by_id.secondary_preferred,353,0.1607,1,,
+read.by_id.secondary_preferred,354,0.1592,1,,
+read.by_id.secondary_preferred,355,0.1645,1,,
+read.by_id.secondary_preferred,356,0.1634,1,,
+read.by_id.secondary_preferred,357,0.1676,1,,
+read.by_id.secondary_preferred,358,0.1643,1,,
+read.by_id.secondary_preferred,359,0.1626,1,,
+read.by_id.secondary_preferred,360,0.1595,1,,
+read.by_id.secondary_preferred,361,0.1604,1,,
+read.by_id.secondary_preferred,362,0.1888,1,,
+read.by_id.secondary_preferred,363,0.1696,1,,
+read.by_id.secondary_preferred,364,0.1768,1,,
+read.by_id.secondary_preferred,365,0.2037,1,,
+read.by_id.secondary_preferred,366,0.1701,1,,
+read.by_id.secondary_preferred,367,0.1632,1,,
+read.by_id.secondary_preferred,368,0.1613,1,,
+read.by_id.secondary_preferred,369,0.1681,1,,
+read.by_id.secondary_preferred,370,0.2211,1,,
+read.by_id.secondary_preferred,371,0.2393,1,,
+read.by_id.secondary_preferred,372,0.2300,1,,
+read.by_id.secondary_preferred,373,0.2206,1,,
+read.by_id.secondary_preferred,374,0.2118,1,,
+read.by_id.secondary_preferred,375,0.1710,1,,
+read.by_id.secondary_preferred,376,0.1631,1,,
+read.by_id.secondary_preferred,377,0.1683,1,,
+read.by_id.secondary_preferred,378,0.1683,1,,
+read.by_id.secondary_preferred,379,0.2818,1,,
+read.by_id.secondary_preferred,380,0.2674,1,,
+read.by_id.secondary_preferred,381,0.2476,1,,
+read.by_id.secondary_preferred,382,0.2845,1,,
+read.by_id.secondary_preferred,383,0.2016,1,,
+read.by_id.secondary_preferred,384,0.1747,1,,
+read.by_id.secondary_preferred,385,0.1664,1,,
+read.by_id.secondary_preferred,386,0.1676,1,,
+read.by_id.secondary_preferred,387,0.1645,1,,
+read.by_id.secondary_preferred,388,0.1709,1,,
+read.by_id.secondary_preferred,389,0.1967,1,,
+read.by_id.secondary_preferred,390,0.1630,1,,
+read.by_id.secondary_preferred,391,0.1621,1,,
+read.by_id.secondary_preferred,392,0.1624,1,,
+read.by_id.secondary_preferred,393,0.1661,1,,
+read.by_id.secondary_preferred,394,0.1660,1,,
+read.by_id.secondary_preferred,395,0.1629,1,,
+read.by_id.secondary_preferred,396,0.1637,1,,
+read.by_id.secondary_preferred,397,0.1608,1,,
+read.by_id.secondary_preferred,398,0.1641,1,,
+read.by_id.secondary_preferred,399,0.1634,1,,
+read.by_id.secondary_preferred,400,0.1821,1,,
+read.by_id.secondary_preferred,401,0.1652,1,,
+read.by_id.secondary_preferred,402,0.1630,1,,
+read.by_id.secondary_preferred,403,0.1611,1,,
+read.by_id.secondary_preferred,404,0.1635,1,,
+read.by_id.secondary_preferred,405,0.1732,1,,
+read.by_id.secondary_preferred,406,0.1662,1,,
+read.by_id.secondary_preferred,407,0.1620,1,,
+read.by_id.secondary_preferred,408,0.1621,1,,
+read.by_id.secondary_preferred,409,0.1604,1,,
+read.by_id.secondary_preferred,410,0.1605,1,,
+read.by_id.secondary_preferred,411,0.1646,1,,
+read.by_id.secondary_preferred,412,0.1714,1,,
+read.by_id.secondary_preferred,413,0.1648,1,,
+read.by_id.secondary_preferred,414,0.1644,1,,
+read.by_id.secondary_preferred,415,0.1616,1,,
+read.by_id.secondary_preferred,416,0.1633,1,,
+read.by_id.secondary_preferred,417,0.1727,1,,
+read.by_id.secondary_preferred,418,0.1671,1,,
+read.by_id.secondary_preferred,419,0.1631,1,,
+read.by_id.secondary_preferred,420,0.1635,1,,
+read.by_id.secondary_preferred,421,0.1601,1,,
+read.by_id.secondary_preferred,422,0.1653,1,,
+read.by_id.secondary_preferred,423,0.2148,1,,
+read.by_id.secondary_preferred,424,0.2229,1,,
+read.by_id.secondary_preferred,425,0.1863,1,,
+read.by_id.secondary_preferred,426,0.2194,1,,
+read.by_id.secondary_preferred,427,0.1902,1,,
+read.by_id.secondary_preferred,428,0.1911,1,,
+read.by_id.secondary_preferred,429,0.1767,1,,
+read.by_id.secondary_preferred,430,0.2110,1,,
+read.by_id.secondary_preferred,431,0.1688,1,,
+read.by_id.secondary_preferred,432,0.1667,1,,
+read.by_id.secondary_preferred,433,0.2041,1,,
+read.by_id.secondary_preferred,434,0.2197,1,,
+read.by_id.secondary_preferred,435,0.1803,1,,
+read.by_id.secondary_preferred,436,0.1810,1,,
+read.by_id.secondary_preferred,437,0.1721,1,,
+read.by_id.secondary_preferred,438,0.1795,1,,
+read.by_id.secondary_preferred,439,0.1992,1,,
+read.by_id.secondary_preferred,440,0.1719,1,,
+read.by_id.secondary_preferred,441,0.1673,1,,
+read.by_id.secondary_preferred,442,0.1675,1,,
+read.by_id.secondary_preferred,443,0.1675,1,,
+read.by_id.secondary_preferred,444,0.1828,1,,
+read.by_id.secondary_preferred,445,0.1719,1,,
+read.by_id.secondary_preferred,446,0.1668,1,,
+read.by_id.secondary_preferred,447,0.1645,1,,
+read.by_id.secondary_preferred,448,0.1642,1,,
+read.by_id.secondary_preferred,449,0.1670,1,,
+read.by_id.secondary_preferred,450,0.1770,1,,
+read.by_id.secondary_preferred,451,0.1683,1,,
+read.by_id.secondary_preferred,452,0.1641,1,,
+read.by_id.secondary_preferred,453,0.1665,1,,
+read.by_id.secondary_preferred,454,0.1646,1,,
+read.by_id.secondary_preferred,455,0.1662,1,,
+read.by_id.secondary_preferred,456,0.1644,1,,
+read.by_id.secondary_preferred,457,0.1689,1,,
+read.by_id.secondary_preferred,458,0.1680,1,,
+read.by_id.secondary_preferred,459,0.1642,1,,
+read.by_id.secondary_preferred,460,0.1644,1,,
+read.by_id.secondary_preferred,461,0.2308,1,,
+read.by_id.secondary_preferred,462,0.2352,1,,
+read.by_id.secondary_preferred,463,0.1876,1,,
+read.by_id.secondary_preferred,464,0.1994,1,,
+read.by_id.secondary_preferred,465,0.1728,1,,
+read.by_id.secondary_preferred,466,0.1669,1,,
+read.by_id.secondary_preferred,467,0.1682,1,,
+read.by_id.secondary_preferred,468,0.1693,1,,
+read.by_id.secondary_preferred,469,0.2087,1,,
+read.by_id.secondary_preferred,470,0.2165,1,,
+read.by_id.secondary_preferred,471,0.1879,1,,
+read.by_id.secondary_preferred,472,0.2356,1,,
+read.by_id.secondary_preferred,473,0.2159,1,,
+read.by_id.secondary_preferred,474,0.1838,1,,
+read.by_id.secondary_preferred,475,0.1738,1,,
+read.by_id.secondary_preferred,476,0.1688,1,,
+read.by_id.secondary_preferred,477,0.1935,1,,
+read.by_id.secondary_preferred,478,0.1687,1,,
+read.by_id.secondary_preferred,479,0.1985,1,,
+read.by_id.secondary_preferred,480,0.1697,1,,
+read.by_id.secondary_preferred,481,0.1674,1,,
+read.by_id.secondary_preferred,482,0.1695,1,,
+read.by_id.secondary_preferred,483,0.2025,1,,
+read.by_id.secondary_preferred,484,0.2196,1,,
+read.by_id.secondary_preferred,485,0.1764,1,,
+read.by_id.secondary_preferred,486,0.1691,1,,
+read.by_id.secondary_preferred,487,0.1689,1,,
+read.by_id.secondary_preferred,488,0.1658,1,,
+read.by_id.secondary_preferred,489,0.1851,1,,
+read.by_id.secondary_preferred,490,0.1693,1,,
+read.by_id.secondary_preferred,491,0.1645,1,,
+read.by_id.secondary_preferred,492,0.1635,1,,
+read.by_id.secondary_preferred,493,0.1638,1,,
+read.by_id.secondary_preferred,494,0.1759,1,,
+read.by_id.secondary_preferred,495,0.1723,1,,
+read.by_id.secondary_preferred,496,0.1659,1,,
+read.by_id.secondary_preferred,497,0.1644,1,,
+read.by_id.secondary_preferred,498,0.1725,1,,
+read.by_id.secondary_preferred,499,0.2218,1,,
+read.filter_genre.primary,0,0.6634,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,1,0.3425,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,2,0.3178,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,3,0.3043,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,4,0.2646,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,5,0.3264,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,6,0.2800,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,7,0.2908,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,8,0.2990,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,9,0.2636,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,10,0.3074,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,11,0.2673,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,12,0.3290,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,13,0.2918,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,14,0.3009,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,15,0.3690,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,16,0.3939,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,17,0.3668,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,18,0.3276,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,19,0.3851,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,20,0.3977,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,21,0.3236,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,22,0.2749,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,23,0.3119,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,24,0.3710,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,25,0.3177,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,26,0.4027,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,27,0.3145,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,28,0.3469,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,29,0.3241,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,30,0.3020,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,31,0.3057,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,32,0.3332,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,33,0.2709,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,34,0.2565,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,35,0.3081,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,36,0.3316,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,37,0.2661,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,38,0.2588,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,39,0.2829,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,40,0.2552,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,41,0.2525,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,42,0.2739,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,43,0.3442,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,44,0.2711,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,45,0.2523,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,46,0.2915,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,47,0.2606,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,48,0.2537,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,49,0.2782,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,50,0.3355,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,51,0.2971,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,52,0.2617,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,53,0.2526,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,54,0.2659,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,55,0.2559,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,56,0.2513,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,57,0.2640,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,58,0.2567,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,59,0.2531,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,60,0.2489,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,61,0.2807,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,62,0.2560,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,63,0.2852,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,64,0.2735,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,65,0.3098,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,66,0.2641,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,67,0.2636,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,68,0.3196,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,69,0.3320,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,70,0.3570,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,71,0.3241,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,72,0.2687,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,73,0.3038,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,74,0.2915,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,75,0.2674,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,76,0.2524,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,77,0.2952,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,78,0.3784,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,79,0.3679,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,80,0.3871,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,81,0.3572,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,82,0.3462,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,83,0.3170,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,84,0.2895,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,85,0.2659,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,86,0.2664,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,87,0.2713,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,88,0.2589,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,89,0.2621,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,90,0.2875,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,91,0.2877,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,92,0.2624,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,93,0.2579,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,94,0.2627,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,95,0.3286,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,96,0.3695,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,97,0.3105,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,98,0.3651,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,99,0.2719,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,100,0.2588,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,101,0.2759,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,102,0.2606,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,103,0.2573,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,104,0.2508,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,105,0.2762,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,106,0.2749,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,107,0.2649,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,108,0.2589,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,109,0.3109,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,110,0.3176,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,111,0.2710,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,112,0.2765,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,113,0.2573,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,114,0.2568,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,115,0.2606,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,116,0.3334,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,117,0.4075,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,118,0.2863,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,119,0.2848,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,120,0.2708,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,121,0.3185,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,122,0.3341,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,123,0.2636,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,124,0.3088,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,125,0.3669,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,126,0.3046,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,127,0.2705,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,128,0.2635,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,129,0.3330,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,130,0.2980,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,131,0.3077,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,132,0.3913,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,133,0.3311,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,134,0.3783,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,135,0.3506,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,136,0.3303,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,137,0.3241,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,138,0.3301,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,139,0.3293,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,140,0.3717,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,141,0.3346,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,142,0.3240,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,143,0.3522,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,144,0.3002,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,145,0.3173,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,146,0.3396,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,147,0.3440,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,148,0.3098,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,149,0.2715,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,150,0.3397,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,151,0.2674,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,152,0.2582,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,153,0.2797,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,154,0.2563,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,155,0.2629,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,156,0.2845,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,157,0.2699,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,158,0.2546,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,159,0.2515,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,160,0.2606,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,161,0.3125,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,162,0.2590,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,163,0.2530,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,164,0.2700,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,165,0.2644,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,166,0.2582,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,167,0.2802,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,168,0.2946,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,169,0.2817,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,170,0.2692,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,171,0.2576,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,172,0.2637,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,173,0.2510,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,174,0.2464,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,175,0.2555,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,176,0.2588,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,177,0.2560,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,178,0.2528,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,179,0.2656,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,180,0.2646,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,181,0.3269,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,182,0.3535,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,183,0.2931,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,184,0.3166,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,185,0.2958,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,186,0.2705,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,187,0.2621,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,188,0.2639,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,189,0.3248,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,190,0.3066,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,191,0.3014,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,192,0.2675,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,193,0.2656,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,194,0.3022,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,195,0.3146,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,196,0.3483,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,197,0.3367,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,198,0.2760,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,199,0.2845,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,200,0.2603,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,201,0.2585,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,202,0.2595,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,203,0.2668,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,204,0.2604,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,205,0.3184,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,206,0.3126,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,207,0.3375,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,208,0.2700,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,209,0.2547,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,210,0.3635,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,211,0.2666,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,212,0.2530,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,213,0.2769,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,214,0.2832,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,215,0.2531,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,216,0.2489,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,217,0.3178,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,218,0.3567,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,219,0.2818,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,220,0.3164,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,221,0.3633,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,222,0.3292,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,223,0.3129,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,224,0.2668,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,225,0.2814,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,226,0.2574,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,227,0.2793,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,228,0.2541,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,229,0.2515,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,230,0.2715,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,231,0.3581,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,232,0.3299,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,233,0.3256,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,234,0.3316,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,235,0.3130,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,236,0.2965,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,237,0.2856,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,238,0.2628,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,239,0.2569,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,240,0.3356,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,241,0.2656,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,242,0.2516,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,243,0.2985,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,244,0.2707,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,245,0.2551,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,246,0.2551,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,247,0.3126,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,248,0.3387,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,249,0.3255,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,250,0.2946,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,251,0.2703,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,252,0.2559,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,253,0.2541,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,254,0.3236,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,255,0.3496,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,256,0.3277,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,257,0.3632,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,258,0.3427,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,259,0.3328,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,260,0.3474,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,261,0.3036,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,262,0.3268,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,263,0.4011,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,264,0.3124,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,265,0.2686,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,266,0.3077,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,267,0.2677,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,268,0.2554,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,269,0.2585,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,270,0.2994,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,271,0.2596,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,272,0.2565,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,273,0.2595,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,274,0.2655,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,275,0.2528,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,276,0.2571,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,277,0.3013,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,278,0.3051,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,279,0.3107,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,280,0.2640,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,281,0.2726,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,282,0.2582,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,283,0.2556,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,284,0.2562,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,285,0.2709,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,286,0.3274,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,287,0.3383,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,288,0.3147,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,289,0.3401,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,290,0.3451,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,291,0.3433,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,292,0.3261,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,293,0.3217,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,294,0.3420,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,295,0.2928,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,296,0.3130,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,297,0.3098,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,298,0.3346,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,299,0.3284,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,300,0.3420,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,301,0.3490,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,302,0.2986,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,303,0.2888,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,304,0.2746,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,305,0.3086,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,306,0.3043,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,307,0.3312,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,308,0.3017,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,309,0.3205,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,310,0.3104,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,311,0.3383,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,312,0.2978,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,313,0.3424,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,314,0.3153,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,315,0.3615,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,316,0.3335,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,317,0.3393,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,318,0.2960,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,319,0.3372,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,320,0.3310,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,321,0.3008,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,322,0.3428,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,323,0.3276,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,324,0.2992,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,325,0.3385,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,326,0.3306,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,327,0.3332,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,328,0.3252,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,329,0.3167,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,330,0.3235,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,331,0.3094,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,332,0.2637,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,333,0.2623,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,334,0.2624,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,335,0.2704,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,336,0.2798,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,337,0.2668,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,338,0.3231,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,339,0.2991,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,340,0.2703,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,341,0.2620,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,342,0.2679,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,343,0.2541,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,344,0.2551,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,345,0.2960,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,346,0.2659,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,347,0.2990,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,348,0.3431,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,349,0.2842,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,350,0.2630,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,351,0.2565,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,352,0.2721,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,353,0.2676,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,354,0.2583,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,355,0.2533,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,356,0.2629,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,357,0.2588,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,358,0.2529,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,359,0.2515,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,360,0.2648,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,361,0.2508,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,362,0.2505,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,363,0.2474,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,364,0.2736,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,365,0.2553,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,366,0.2520,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,367,0.2554,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,368,0.2974,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,369,0.2543,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,370,0.2531,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,371,0.2580,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,372,0.2722,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,373,0.2575,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,374,0.2530,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,375,0.2682,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,376,0.2606,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,377,0.2555,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,378,0.2529,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,379,0.2815,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,380,0.2558,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,381,0.2525,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,382,0.2711,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,383,0.3077,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,384,0.2708,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,385,0.3771,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,386,0.4103,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,387,0.3976,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,388,0.3454,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,389,0.3486,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,390,0.3267,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,391,0.2943,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,392,0.2800,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,393,0.2693,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,394,0.2601,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,395,0.3332,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,396,0.3236,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,397,0.3247,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,398,0.3638,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,399,0.3027,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,400,0.2720,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,401,0.3067,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,402,0.2953,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,403,0.2703,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,404,0.3077,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,405,0.2717,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,406,0.3121,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,407,0.3293,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,408,0.3740,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,409,0.2729,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,410,0.2629,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,411,0.2670,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,412,0.3875,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,413,0.3130,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,414,0.3336,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,415,0.3457,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,416,0.3252,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,417,0.3382,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,418,0.3005,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,419,0.2747,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,420,0.2562,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,421,0.3172,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,422,0.3139,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,423,0.2653,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,424,0.3169,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,425,0.2696,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,426,0.3097,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,427,0.3362,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,428,0.2779,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,429,0.2626,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,430,0.2579,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,431,0.3143,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,432,0.2758,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,433,0.2599,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,434,0.2575,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,435,0.2763,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,436,0.2573,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,437,0.2791,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,438,0.3259,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,439,0.3898,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,440,0.3064,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,441,0.3290,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,442,0.3334,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,443,0.3685,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,444,0.3571,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,445,0.3384,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,446,0.2972,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,447,0.3342,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,448,0.2698,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,449,0.3075,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,450,0.3168,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,451,0.3112,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,452,0.3008,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,453,0.2682,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,454,0.3647,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,455,0.3305,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,456,0.3685,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,457,0.3296,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,458,0.3086,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,459,0.3324,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,460,0.3972,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,461,0.3497,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,462,0.4305,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,463,0.3488,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,464,0.3120,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,465,0.3500,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,466,0.3347,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,467,0.3200,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,468,0.3335,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,469,0.2681,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,470,0.2596,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,471,0.2890,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,472,0.3154,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,473,0.2912,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,474,0.3079,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,475,0.3695,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,476,0.3229,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,477,0.3306,1,,"{""genre"": ""Romance""}"
+read.filter_genre.primary,478,0.3498,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,479,0.3262,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,480,0.3238,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,481,0.3431,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,482,0.3053,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,483,0.2965,1,,"{""genre"": ""Drama""}"
+read.filter_genre.primary,484,0.3260,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,485,0.3183,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.primary,486,0.3153,1,,"{""genre"": ""Action""}"
+read.filter_genre.primary,487,0.3695,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,488,0.3282,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,489,0.2672,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,490,0.3801,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,491,0.2803,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,492,0.2634,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,493,0.3299,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.primary,494,0.2955,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.primary,495,0.2668,1,,"{""genre"": ""Horror""}"
+read.filter_genre.primary,496,0.3296,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,497,0.3486,1,,"{""genre"": ""Animation""}"
+read.filter_genre.primary,498,0.3240,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.primary,499,0.3292,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,0,0.3167,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,1,0.2763,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,2,0.3222,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,3,0.3549,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,4,0.3003,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,5,0.3537,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,6,0.3183,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,7,0.3307,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,8,0.3445,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,9,0.3506,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,10,0.2859,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,11,0.2805,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,12,0.2797,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,13,0.2625,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,14,0.2624,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,15,0.3077,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,16,0.3567,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,17,0.3361,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,18,0.3842,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,19,0.4366,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,20,0.3411,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,21,0.3662,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,22,0.3423,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,23,0.3227,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,24,0.4264,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,25,0.3687,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,26,0.3911,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,27,0.3340,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,28,0.3531,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,29,0.4100,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,30,0.3794,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,31,0.3551,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,32,0.3285,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,33,0.2724,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,34,0.2968,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,35,0.3662,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,36,0.3613,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,37,0.3241,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,38,0.3398,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,39,0.2847,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,40,0.2656,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,41,0.3375,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,42,0.3267,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,43,0.3745,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,44,0.3569,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,45,0.3262,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,46,0.2741,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,47,0.3400,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,48,0.3451,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,49,0.2855,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,50,0.3343,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,51,0.3205,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,52,0.3014,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,53,0.3470,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,54,0.2834,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,55,0.2640,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,56,0.2688,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,57,0.2831,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,58,0.3243,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,59,0.3187,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,60,0.2859,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,61,0.2755,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,62,0.2650,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,63,0.2618,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,64,0.3050,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,65,0.2804,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,66,0.2698,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,67,0.3268,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,68,0.2901,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,69,0.3179,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,70,0.3592,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,71,0.3178,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,72,0.2770,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,73,0.2668,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,74,0.2795,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,75,0.2677,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,76,0.2590,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,77,0.2733,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,78,0.2595,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,79,0.2561,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,80,0.2627,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,81,0.2915,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,82,0.2569,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,83,0.2555,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,84,0.3106,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,85,0.3655,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,86,0.3392,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,87,0.3628,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,88,0.3985,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,89,0.3894,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,90,0.3551,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,91,0.3346,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,92,0.3169,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,93,0.3615,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,94,0.3715,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,95,0.3522,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,96,0.3561,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,97,0.3453,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,98,0.3191,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,99,0.3190,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,100,0.2692,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,101,0.2913,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,102,0.2799,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,103,0.3083,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,104,0.2716,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,105,0.3388,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,106,0.3607,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,107,0.3434,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,108,0.3577,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,109,0.3433,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,110,0.3380,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,111,0.3325,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,112,0.2856,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,113,0.3134,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,114,0.3304,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,115,0.2949,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,116,0.3180,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,117,0.3508,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,118,0.3872,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,119,0.3295,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,120,0.3163,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,121,0.2826,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,122,0.2673,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,123,0.2598,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,124,0.3320,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,125,0.3244,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,126,0.2871,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,127,0.2963,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,128,0.2708,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,129,0.2646,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,130,0.3123,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,131,0.3540,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,132,0.3337,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,133,0.3225,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,134,0.2922,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,135,0.3233,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,136,0.3526,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,137,0.3420,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,138,0.3712,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,139,0.3216,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,140,0.3182,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,141,0.2737,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,142,0.2724,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,143,0.3387,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,144,0.3061,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,145,0.2746,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,146,0.3233,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,147,0.3172,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,148,0.3206,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,149,0.2842,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,150,0.2672,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,151,0.2596,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,152,0.2594,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,153,0.3381,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,154,0.3488,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,155,0.3637,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,156,0.3604,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,157,0.3280,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,158,0.3049,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,159,0.3076,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,160,0.2910,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,161,0.2705,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,162,0.2817,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,163,0.2681,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,164,0.2610,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,165,0.3262,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,166,0.3286,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,167,0.2942,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,168,0.2768,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,169,0.3224,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,170,0.3160,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,171,0.3184,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,172,0.3282,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,173,0.2809,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,174,0.3323,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,175,0.3285,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,176,0.3828,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,177,0.3460,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,178,0.3377,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,179,0.2798,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,180,0.2643,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,181,0.2637,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,182,0.2721,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,183,0.2935,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,184,0.2884,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,185,0.2787,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,186,0.2633,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,187,0.2801,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,188,0.3268,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,189,0.3220,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,190,0.3450,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,191,0.3612,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,192,0.3205,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,193,0.3279,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,194,0.3821,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,195,0.3947,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,196,0.3541,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,197,0.3985,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,198,0.3439,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,199,0.3367,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,200,0.3291,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,201,0.3035,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,202,0.3001,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,203,0.3444,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,204,0.3436,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,205,0.3408,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,206,0.3593,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,207,0.3080,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,208,0.3507,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,209,0.3118,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,210,0.3328,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,211,0.3085,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,212,0.3198,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,213,0.3008,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,214,0.3443,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,215,0.3662,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,216,0.3230,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,217,0.3018,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,218,0.3266,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,219,0.3808,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,220,0.3517,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,221,0.3643,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,222,0.2933,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,223,0.2722,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,224,0.2779,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,225,0.2634,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,226,0.2595,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,227,0.2568,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,228,0.2593,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,229,0.3046,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,230,0.2720,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,231,0.3190,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,232,0.3092,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,233,0.2793,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,234,0.2653,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,235,0.2856,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,236,0.2756,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,237,0.2661,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,238,0.2639,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,239,0.3265,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,240,0.3534,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,241,0.2822,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,242,0.2853,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,243,0.2697,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,244,0.2650,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,245,0.2886,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,246,0.2819,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,247,0.2691,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,248,0.2604,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,249,0.2719,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,250,0.2618,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,251,0.2599,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,252,0.2597,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,253,0.2726,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,254,0.2591,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,255,0.2565,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,256,0.2696,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,257,0.2707,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,258,0.2682,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,259,0.2642,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,260,0.3437,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,261,0.3229,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,262,0.3115,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,263,0.3445,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,264,0.2782,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,265,0.3095,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,266,0.3149,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,267,0.3023,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,268,0.2680,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,269,0.2722,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,270,0.2817,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,271,0.3642,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,272,0.3698,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,273,0.3510,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,274,0.3403,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,275,0.3663,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,276,0.3712,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,277,0.3407,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,278,0.3319,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,279,0.3389,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,280,0.3449,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,281,0.3832,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,282,0.3508,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,283,0.3449,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,284,0.3293,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,285,0.2815,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,286,0.2675,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,287,0.2611,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,288,0.2694,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,289,0.2631,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,290,0.2657,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,291,0.3653,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,292,0.3649,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,293,0.3300,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,294,0.3327,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,295,0.2799,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,296,0.2664,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,297,0.2646,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,298,0.3319,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,299,0.3093,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,300,0.2958,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,301,0.3109,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,302,0.3000,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,303,0.2766,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,304,0.3682,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,305,0.3778,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,306,0.3566,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,307,0.3496,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,308,0.3376,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,309,0.3357,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,310,0.2936,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,311,0.2756,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,312,0.3192,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,313,0.3392,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,314,0.3060,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,315,0.3233,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,316,0.3619,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,317,0.3418,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,318,0.3102,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,319,0.2997,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,320,0.2772,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,321,0.2709,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,322,0.2684,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,323,0.2769,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,324,0.2679,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,325,0.2636,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,326,0.2923,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,327,0.3357,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,328,0.2691,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,329,0.2700,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,330,0.2785,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,331,0.2656,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,332,0.2609,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,333,0.2819,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,334,0.2773,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,335,0.3107,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,336,0.3202,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,337,0.2927,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,338,0.2729,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,339,0.2680,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,340,0.3006,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,341,0.3513,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,342,0.2911,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,343,0.2958,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,344,0.2785,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,345,0.3151,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,346,0.2675,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,347,0.2710,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,348,0.2726,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,349,0.2649,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,350,0.2583,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,351,0.2717,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,352,0.2701,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,353,0.2965,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,354,0.2824,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,355,0.2636,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,356,0.2570,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,357,0.2623,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,358,0.2771,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,359,0.2607,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,360,0.2560,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,361,0.2572,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,362,0.3814,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,363,0.3528,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,364,0.3828,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,365,0.2989,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,366,0.3057,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,367,0.2798,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,368,0.2773,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,369,0.2702,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,370,0.2662,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,371,0.3088,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,372,0.2741,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,373,0.2619,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,374,0.2605,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,375,0.2761,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,376,0.2620,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,377,0.2569,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,378,0.2577,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,379,0.2793,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,380,0.2676,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,381,0.2647,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,382,0.2729,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,383,0.3095,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,384,0.2642,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,385,0.2586,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,386,0.2816,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,387,0.2683,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,388,0.2650,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,389,0.2601,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,390,0.2843,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,391,0.2651,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,392,0.2631,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,393,0.3404,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,394,0.3393,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,395,0.3103,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,396,0.3327,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,397,0.3180,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,398,0.2759,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,399,0.2685,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,400,0.2791,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,401,0.3406,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,402,0.3142,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,403,0.2912,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,404,0.2678,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,405,0.2637,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,406,0.2599,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,407,0.3037,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,408,0.2740,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,409,0.2618,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,410,0.2779,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,411,0.2612,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,412,0.2628,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,413,0.2699,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,414,0.2715,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,415,0.2652,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,416,0.2599,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,417,0.2601,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,418,0.3057,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,419,0.2757,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,420,0.2666,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,421,0.2872,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,422,0.2692,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,423,0.2723,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,424,0.2623,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,425,0.2741,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,426,0.2710,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,427,0.3324,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,428,0.4024,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,429,0.3495,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,430,0.3484,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,431,0.3238,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,432,0.2785,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,433,0.3087,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,434,0.3321,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,435,0.3128,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,436,0.3431,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,437,0.3226,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,438,0.3087,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,439,0.2862,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,440,0.2756,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,441,0.2829,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,442,0.2727,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,443,0.2698,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,444,0.3366,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,445,0.2909,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,446,0.2669,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,447,0.2662,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,448,0.2770,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,449,0.2760,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,450,0.3134,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,451,0.3129,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,452,0.3039,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,453,0.2898,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,454,0.2967,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,455,0.2859,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,456,0.3028,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,457,0.3182,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,458,0.3402,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,459,0.2968,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,460,0.2761,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,461,0.2955,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,462,0.2699,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,463,0.2867,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,464,0.2986,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,465,0.2936,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,466,0.3242,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,467,0.3291,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,468,0.3057,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,469,0.2715,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,470,0.2687,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,471,0.2834,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,472,0.2616,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,473,0.2631,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,474,0.3085,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,475,0.2705,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,476,0.2606,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,477,0.2629,1,,"{""genre"": ""Romance""}"
+read.filter_genre.secondary_preferred,478,0.3378,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,479,0.3583,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,480,0.2912,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,481,0.3437,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,482,0.3108,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,483,0.2770,1,,"{""genre"": ""Drama""}"
+read.filter_genre.secondary_preferred,484,0.2677,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,485,0.2750,1,,"{""genre"": ""Thriller""}"
+read.filter_genre.secondary_preferred,486,0.2672,1,,"{""genre"": ""Action""}"
+read.filter_genre.secondary_preferred,487,0.2610,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,488,0.2785,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,489,0.2693,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,490,0.2656,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,491,0.2588,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,492,0.3178,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,493,0.3183,1,,"{""genre"": ""Sci-Fi""}"
+read.filter_genre.secondary_preferred,494,0.3320,1,,"{""genre"": ""Documentary""}"
+read.filter_genre.secondary_preferred,495,0.3137,1,,"{""genre"": ""Horror""}"
+read.filter_genre.secondary_preferred,496,0.2754,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,497,0.2721,1,,"{""genre"": ""Animation""}"
+read.filter_genre.secondary_preferred,498,0.2695,1,,"{""genre"": ""Comedy""}"
+read.filter_genre.secondary_preferred,499,0.3087,1,,"{""genre"": ""Action""}"
+read.agg_top_rated.primary,0,36.0928,1,,
+read.agg_top_rated.primary,1,35.6810,1,,
+read.agg_top_rated.primary,2,35.8451,1,,
+read.agg_top_rated.primary,3,35.8120,1,,
+read.agg_top_rated.primary,4,35.4140,1,,
+read.agg_top_rated.primary,5,35.1317,1,,
+read.agg_top_rated.primary,6,35.1835,1,,
+read.agg_top_rated.primary,7,37.3793,1,,
+read.agg_top_rated.primary,8,37.0318,1,,
+read.agg_top_rated.primary,9,37.1156,1,,
+read.agg_top_rated.primary,10,36.9002,1,,
+read.agg_top_rated.primary,11,37.5902,1,,
+read.agg_top_rated.primary,12,36.9852,1,,
+read.agg_top_rated.primary,13,37.0135,1,,
+read.agg_top_rated.primary,14,37.6841,1,,
+read.agg_top_rated.primary,15,38.3710,1,,
+read.agg_top_rated.primary,16,35.1885,1,,
+read.agg_top_rated.primary,17,35.0806,1,,
+read.agg_top_rated.primary,18,35.1404,1,,
+read.agg_top_rated.primary,19,38.1537,1,,
+read.agg_top_rated.secondary_preferred,0,35.3321,1,,
+read.agg_top_rated.secondary_preferred,1,35.3035,1,,
+read.agg_top_rated.secondary_preferred,2,35.3603,1,,
+read.agg_top_rated.secondary_preferred,3,35.2908,1,,
+read.agg_top_rated.secondary_preferred,4,35.1091,1,,
+read.agg_top_rated.secondary_preferred,5,35.0426,1,,
+read.agg_top_rated.secondary_preferred,6,35.1441,1,,
+read.agg_top_rated.secondary_preferred,7,34.9770,1,,
+read.agg_top_rated.secondary_preferred,8,35.3976,1,,
+read.agg_top_rated.secondary_preferred,9,35.8205,1,,
+read.agg_top_rated.secondary_preferred,10,35.7350,1,,
+read.agg_top_rated.secondary_preferred,11,35.9240,1,,
+read.agg_top_rated.secondary_preferred,12,36.0670,1,,
+read.agg_top_rated.secondary_preferred,13,37.6765,1,,
+read.agg_top_rated.secondary_preferred,14,37.8187,1,,
+read.agg_top_rated.secondary_preferred,15,37.1193,1,,
+read.agg_top_rated.secondary_preferred,16,35.7530,1,,
+read.agg_top_rated.secondary_preferred,17,36.4329,1,,
+read.agg_top_rated.secondary_preferred,18,35.5965,1,,
+read.agg_top_rated.secondary_preferred,19,35.4358,1,,
+failover.write_probe,0,0.9072,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,1,0.8611,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,2,0.5797,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,3,0.5034,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,4,0.4515,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,5,0.4542,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,6,0.4684,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,7,0.4662,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,8,0.4070,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,9,0.4639,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,10,0.4278,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,11,0.7201,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,12,0.8787,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,13,0.7618,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,14,0.6269,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,15,0.5599,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,16,0.5293,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,17,0.4871,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,18,0.8083,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,19,1.2419,1,,"{""phase"": ""pre_kill""}"
+failover.write_probe,20,0.9360,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,21,0.6188,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,22,0.5304,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,23,0.4476,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,24,0.4599,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,25,0.4511,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,26,0.5000,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,27,0.4540,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,28,0.4961,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,29,0.4402,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,30,0.4244,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,31,0.4114,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,32,0.4407,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,33,0.6302,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,34,0.6951,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,35,0.4868,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,36,0.4600,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,37,0.5278,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,38,0.4206,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,39,0.4383,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,40,0.4349,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,41,0.4461,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,42,0.4227,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,43,0.4333,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,44,0.4171,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,45,0.4182,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,46,0.4211,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,47,0.4391,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,48,0.4319,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,49,0.4375,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,50,0.4384,1,,"{""phase"": ""post_kill""}"
+failover.write_probe,51,0.4003,1,,"{""phase"": ""post_kill""}"
